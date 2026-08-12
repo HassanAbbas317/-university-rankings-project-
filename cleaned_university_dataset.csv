@@ -1,0 +1,1001 @@
+world_rank,institution,location,national_rank,quality_of_education,alumni_employment,quality_of_faculty,research_output,quality_publications,influence,citations,score,performance_category,top_10,top_50,top_100,rank_category
+1,Harvard University,USA,1,2.0,1,1.0,1,1,1,1,100.0,Excellent,Top 10,Top 50,Top 100,1-10
+2,Stanford University,USA,2,10.0,3,2.0,10,4,3,2,96.7,Excellent,Top 10,Top 50,Top 100,1-10
+3,Massachusetts Institute of Technology,USA,3,3.0,11,3.0,30,15,2,6,95.1,Excellent,Top 10,Top 50,Top 100,1-10
+4,University of Cambridge,UNITED KINGDOM,1,5.0,19,6.0,12,8,6,19,94.0,Excellent,Top 10,Top 50,Top 100,1-10
+5,University of Oxford,UNITED KINGDOM,2,9.0,25,10.0,9,5,7,4,93.2,Excellent,Top 10,Top 50,Top 100,1-10
+6,"University of California, Berkeley",USA,4,7.0,52,5.0,18,12,4,8,92.5,Excellent,Top 10,Top 50,Top 100,1-10
+7,Princeton University,USA,5,4.0,15,4.0,146,99,28,27,91.9,Excellent,Top 10,Top 50,Top 100,1-10
+8,Columbia University,USA,6,16.0,13,8.0,20,14,10,10,91.4,Excellent,Top 10,Top 50,Top 100,1-10
+9,California Institute of Technology,USA,7,1.0,200,7.0,127,81,13,31,91.0,Excellent,Top 10,Top 50,Top 100,1-10
+10,University of Chicago,USA,8,13.0,22,9.0,39,22,18,10,90.6,Excellent,Top 10,Top 50,Top 100,1-10
+11,Yale University,USA,9,11.0,34,12.0,37,19,11,31,90.3,Excellent,Outside Top 10,Top 50,Top 100,11-50
+12,University of Tokyo,JAPAN,1,17.0,8,33.0,7,17,23,29,90.0,Excellent,Outside Top 10,Top 50,Top 100,11-50
+13,University of Pennsylvania,USA,10,31.0,9,30.0,16,11,17,13,89.7,Very Good,Outside Top 10,Top 50,Top 100,11-50
+14,Cornell University,USA,11,14.0,28,19.0,31,24,15,40,89.4,Very Good,Outside Top 10,Top 50,Top 100,11-50
+15,"University of California, Los Angeles",USA,12,58.0,63,11.0,13,10,14,5,89.1,Very Good,Outside Top 10,Top 50,Top 100,11-50
+16,Johns Hopkins University,USA,13,24.0,159,17.0,8,6,12,3,88.9,Very Good,Outside Top 10,Top 50,Top 100,11-50
+17,University of Toronto,CANADA,1,86.0,157,23.0,2,2,16,7,88.7,Very Good,Outside Top 10,Top 50,Top 100,11-50
+18,"University of Michigan, Ann Arbor",USA,14,47.0,38,68.0,3,3,20,10,88.4,Very Good,Outside Top 10,Top 50,Top 100,11-50
+19,University of Washington - Seattle,USA,15,75.0,220,26.0,11,9,9,9,88.2,Very Good,Outside Top 10,Top 50,Top 100,11-50
+20,"University of California, San Diego",USA,16,37.0,1001,16.0,28,16,5,16,88.0,Very Good,Outside Top 10,Top 50,Top 100,11-50
+21,University College London,UNITED KINGDOM,3,32.0,739,28.0,5,7,19,19,87.8,Very Good,Outside Top 10,Top 50,Top 100,11-50
+22,"University of California, San Francisco",USA,17,1001.0,1001,13.0,45,23,8,17,87.7,Very Good,Outside Top 10,Top 50,Top 100,11-50
+23,Northwestern University,USA,18,129.0,18,44.0,52,28,36,34,87.5,Very Good,Outside Top 10,Top 50,Top 100,11-50
+24,Duke University,USA,19,98.0,46,47.0,36,20,21,14,87.3,Very Good,Outside Top 10,Top 50,Top 100,11-50
+25,New York University,USA,20,64.0,40,18.0,70,50,29,35,87.2,Very Good,Outside Top 10,Top 50,Top 100,11-50
+26,Kyoto University,JAPAN,2,25.0,29,24.0,29,45,48,101,87.0,Very Good,Outside Top 10,Top 50,Top 100,11-50
+27,University of WisconsinMadison,USA,21,65.0,79,32.0,32,26,30,15,86.9,Very Good,Outside Top 10,Top 50,Top 100,11-50
+28,ETH Zurich,SWITZERLAND,1,29.0,98,20.0,57,42,27,59,86.7,Very Good,Outside Top 10,Top 50,Top 100,11-50
+29,Sorbonne University,FRANCE,1,46.0,344,56.0,6,13,24,22,86.6,Very Good,Outside Top 10,Top 50,Top 100,11-50
+30,Imperial College London,UNITED KINGDOM,4,93.0,103,43.0,21,18,25,29,86.5,Very Good,Outside Top 10,Top 50,Top 100,11-50
+31,University of Texas at Austin,USA,22,108.0,62,29.0,73,58,58,24,86.3,Very Good,Outside Top 10,Top 50,Top 100,11-50
+32,University of Illinois at UrbanaChampaign,USA,23,40.0,150,27.0,65,55,61,50,86.2,Very Good,Outside Top 10,Top 50,Top 100,11-50
+33,University of North Carolina at Chapel Hill,USA,24,205.0,120,72.0,50,30,33,21,86.1,Very Good,Outside Top 10,Top 50,Top 100,11-50
+34,University of Edinburgh,UNITED KINGDOM,5,61.0,325,36.0,72,56,31,48,86.0,Very Good,Outside Top 10,Top 50,Top 100,11-50
+35,University of Minnesota Twin Cities,USA,25,131.0,302,76.0,24,21,35,28,85.9,Very Good,Outside Top 10,Top 50,Top 100,11-50
+36,Washington University in St. Louis,USA,26,206.0,161,64.0,81,46,22,22,85.8,Very Good,Outside Top 10,Top 50,Top 100,11-50
+37,McGill University,CANADA,2,68.0,86,65.0,44,36,53,39,85.6,Very Good,Outside Top 10,Top 50,Top 100,11-50
+38,University of British Columbia,CANADA,3,173.0,699,78.0,25,27,37,24,85.5,Very Good,Outside Top 10,Top 50,Top 100,11-50
+39,University of Copenhagen,DENMARK,1,302.0,364,79.0,26,29,26,38,85.4,Very Good,Outside Top 10,Top 50,Top 100,11-50
+40,Ohio State University,USA,27,165.0,254,70.0,33,31,50,35,85.3,Very Good,Outside Top 10,Top 50,Top 100,11-50
+41,Rutgers University-New Brunswick,USA,28,212.0,101,35.0,74,67,62,59,85.2,Very Good,Outside Top 10,Top 50,Top 100,11-50
+42,"University of California, Davis",USA,29,83.0,579,75.0,42,35,39,31,85.1,Very Good,Outside Top 10,Top 50,Top 100,11-50
+43,Pennsylvania State University,USA,30,374.0,168,60.0,43,40,41,51,85.0,Very Good,Outside Top 10,Top 50,Top 100,11-50
+44,University of Manchester,UNITED KINGDOM,6,171.0,227,63.0,49,48,65,35,85.0,Very Good,Outside Top 10,Top 50,Top 100,11-50
+45,Weizmann Institute of Science,ISRAEL,1,8.0,1001,22.0,445,292,69,254,84.9,Very Good,Outside Top 10,Top 50,Top 100,11-50
+46,Heidelberg University,GERMANY,1,71.0,807,51.0,63,64,51,53,84.8,Very Good,Outside Top 10,Top 50,Top 100,11-50
+47,"University of Maryland, College Park",USA,31,103.0,480,55.0,92,72,45,42,84.7,Very Good,Outside Top 10,Top 50,Top 100,11-50
+48,Ludwig Maximilian University of Munich,GERMANY,2,91.0,266,83.0,53,57,42,46,84.6,Very Good,Outside Top 10,Top 50,Top 100,11-50
+49,Karolinska Institute,SWEDEN,1,162.0,1001,46.0,67,53,46,108,84.5,Very Good,Outside Top 10,Top 50,Top 100,11-50
+50,University of Colorado Boulder,USA,32,134.0,170,41.0,145,111,40,59,84.4,Very Good,Outside Top 10,Top 50,Top 100,11-50
+51,University of Southern California,USA,33,215.0,111,40.0,121,88,74,66,84.4,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+52,University of Arizona,USA,34,166.0,164,53.0,111,96,43,48,84.3,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+53,Osaka University,JAPAN,3,70.0,65,61.0,59,82,83,174,84.2,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+54,University of Paris-Sud,FRANCE,2,49.0,815,38.0,103,86,98,76,84.1,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+55,University of Geneva,SWITZERLAND,2,35.0,381,31.0,147,130,87,72,84.0,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+56,Boston University,USA,35,572.0,112,106.0,113,75,52,26,84.0,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+57,University of Melbourne,AUSTRALIA,1,232.0,408,180.0,35,34,54,40,83.9,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+58,Brown University,USA,36,95.0,50,50.0,186,125,85,80,83.8,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+59,"University of California, Irvine",USA,37,264.0,1001,42.0,133,97,64,57,83.8,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+60,Seoul National University,SOUTH KOREA,1,1001.0,20,1001.0,19,39,146,129,83.7,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+61,Hebrew University of Jerusalem,ISRAEL,2,19.0,400,15.0,177,143,122,405,83.6,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+62,University of Florida,USA,38,472.0,485,113.0,40,44,90,43,83.6,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+63,"Purdue University, West Lafayette",USA,39,96.0,83,58.0,94,93,106,129,83.5,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+64,Vanderbilt University,USA,40,148.0,91,140.0,95,63,57,45,83.4,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+65,University of Bristol,UNITED KINGDOM,7,186.0,296,48.0,126,100,67,85,83.4,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+66,University of Texas Southwestern Medical Center,USA,41,33.0,1001,39.0,244,151,34,187,83.3,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+67,Sapienza University of Rome,ITALY,1,117.0,486,34.0,61,103,195,71,83.2,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+68,King's College London,UNITED KINGDOM,8,43.0,341,110.0,88,65,79,72,83.2,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+69,University of Zurich,SWITZERLAND,3,267.0,771,108.0,80,70,49,51,83.1,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+70,"University of California, Santa Barbara",USA,42,149.0,596,25.0,229,146,80,63,83.0,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+71,University of Sydney,AUSTRALIA,2,231.0,590,208.0,27,33,71,46,83.0,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+72,Utrecht University,NETHERLANDS,1,122.0,352,137.0,58,43,56,66,82.9,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+73,University of Pittsburgh,USA,43,187.0,233,1001.0,34,25,47,18,82.9,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+74,University of Queensland,AUSTRALIA,3,310.0,541,181.0,46,51,63,53,82.8,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+75,University of Oslo,NORWAY,1,97.0,633,52.0,99,102,112,93,82.8,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+76,Rockefeller University,USA,44,15.0,1001,14.0,786,434,32,275,82.7,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+77,University of São Paulo,BRAZIL,1,583.0,256,109.0,4,60,162,139,82.6,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+78,"Texas A&M University, College Station",USA,45,625.0,183,57.0,85,95,133,101,82.6,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+79,University of Virginia,USA,46,271.0,31,168.0,151,116,95,85,82.5,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+80,Emory University,USA,47,1001.0,197,164.0,101,66,55,63,82.5,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+81,Free University of Berlin,GERMANY,3,112.0,1001,124.0,64,76,72,85,82.4,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+82,Australian National University,AUSTRALIA,4,188.0,666,37.0,153,136,101,121,82.4,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+83,University of Utah,USA,48,169.0,187,80.0,125,105,68,93,82.3,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+84,Paris Diderot University,FRANCE,3,192.0,1001,101.0,122,108,44,76,82.3,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+85,Tel Aviv University,ISRAEL,3,105.0,143,59.0,108,115,129,151,82.2,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+86,Uppsala University,SWEDEN,2,102.0,548,84.0,107,107,66,114,82.2,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+87,University of Barcelona,SPAIN,1,386.0,472,181.0,47,54,91,72,82.1,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+88,Aarhus University,DENMARK,2,589.0,379,114.0,83,79,78,121,82.1,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+89,University of Texas MD Anderson Cancer Center,USA,49,1001.0,1001,91.0,158,104,70,66,82.0,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+90,Leiden University,NETHERLANDS,2,228.0,1001,118.0,118,78,81,80,82.0,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+91,Carnegie Mellon University,USA,50,34.0,145,21.0,318,228,221,129,81.9,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+92,Peking University,CHINA,1,340.0,67,1001.0,23,38,88,167,81.9,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+93,University of Helsinki,FINLAND,1,109.0,1001,135.0,82,83,77,108,81.8,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+94,Baylor College of Medicine,USA,51,1001.0,1001,141.0,161,118,38,53,81.8,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+95,Lund University,SWEDEN,3,294.0,753,122.0,90,90,121,76,81.7,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+96,University of Alberta,CANADA,4,281.0,371,192.0,62,69,117,80,81.7,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+97,Grenoble Alpes University,FRANCE,4,334.0,1001,157.0,89,87,75,93,81.7,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+98,Tsinghua University,CHINA,2,586.0,109,1001.0,22,41,96,108,81.6,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+99,University of Basel,SWITZERLAND,4,142.0,393,54.0,218,162,89,139,81.6,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+100,University of Groningen,NETHERLANDS,3,363.0,482,131.0,97,73,104,93,81.5,Very Good,Outside Top 10,Outside Top 50,Top 100,51-100
+101,Humboldt University of Berlin,GERMANY,4,570.0,1001,225.0,69,77,73,80,81.5,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+102,École Polytechnique Fédérale de Lausanne,SWITZERLAND,5,400.0,92,141.0,184,126,102,53,81.4,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+103,National University of Singapore,SINGAPORE,1,1001.0,148,1001.0,38,32,94,85,81.4,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+104,Ghent University,BELGIUM,1,311.0,685,190.0,55,68,136,101,81.3,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+105,University of Rochester,USA,52,73.0,74,139.0,220,148,139,66,81.3,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+106,Erasmus University Rotterdam,NETHERLANDS,4,1001.0,90,264.0,120,84,107,72,81.3,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+107,KU Leuven,BELGIUM,2,1001.0,429,1001.0,48,47,84,66,81.2,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+108,University of Bern,SWITZERLAND,6,183.0,1001,102.0,160,144,105,85,81.2,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+109,National Taiwan University,TAIWAN,1,140.0,37,1001.0,51,61,223,151,81.1,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+110,University of Montreal,CANADA,5,486.0,455,205.0,86,91,93,139,81.1,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+111,"University of California, Santa Cruz",USA,53,343.0,1001,45.0,412,275,60,93,81.1,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+112,Technical University of Munich,GERMANY,5,89.0,339,226.0,106,98,86,139,81.0,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+113,Nagoya University,JAPAN,4,69.0,366,67.0,132,165,169,222,81.0,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+114,Arizona State University,USA,54,1001.0,796,111.0,155,139,113,114,80.9,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+115,University of Bonn,GERMANY,6,123.0,494,105.0,167,158,123,101,80.9,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+116,École Polytechnique,FRANCE,5,85.0,5,240.0,488,396,348,254,80.9,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+117,École normale supérieure,FRANCE,6,6.0,627,82.0,598,442,227,460,80.8,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+118,University of Nottingham,UNITED KINGDOM,9,317.0,375,98.0,138,121,179,114,80.8,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+119,University of New South Wales,AUSTRALIA,5,399.0,126,278.0,68,74,154,85,80.8,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+120,Tohoku University,JAPAN,5,82.0,158,246.0,60,101,166,167,80.7,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+121,McMaster University,CANADA,6,339.0,660,202.0,140,133,124,57,80.7,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+122,Dartmouth College,USA,55,48.0,17,232.0,372,258,185,240,80.6,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+123,University of Amsterdam,NETHERLANDS,5,175.0,872,298.0,79,62,82,85,80.6,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+124,Monash University,AUSTRALIA,6,455.0,405,1001.0,56,59,100,101,80.6,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+125,University of Hamburg,GERMANY,7,594.0,414,177.0,139,138,130,114,80.5,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+126,Moscow State University,RUSSIA,1,23.0,384,71.0,98,289,279,304,80.5,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+127,VU University Amsterdam,NETHERLANDS,6,1001.0,984,1001.0,91,71,132,44,80.5,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+128,Stony Brook University,USA,56,373.0,1001,62.0,270,197,115,187,80.4,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+129,Rice University,USA,57,67.0,93,77.0,407,283,163,108,80.4,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+130,Radboud University Nijmegen,NETHERLANDS,7,172.0,533,1001.0,114,80,99,59,80.4,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+131,Cardiff University,UNITED KINGDOM,10,338.0,483,95.0,212,182,148,121,80.3,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+132,University of Tübingen,GERMANY,8,94.0,1001,122.0,152,141,118,240,80.3,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+133,University of Colorado Denver | Anschutz Medical Campus,USA,58,1001.0,1001,94.0,234,167,134,139,80.3,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+134,University of Iowa,USA,59,292.0,373,212.0,148,120,108,151,80.2,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+135,University of Strasbourg,FRANCE,7,113.0,1001,49.0,258,197,157,275,80.2,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+136,Shanghai Jiao Tong University,CHINA,3,619.0,236,1001.0,17,52,203,167,80.2,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+137,University of Southampton,UNITED KINGDOM,11,603.0,285,243.0,134,114,119,151,80.1,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+138,Aix-Marseille University,FRANCE,8,401.0,941,1001.0,87,89,76,139,80.1,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+139,Georgia Institute of Technology,USA,60,282.0,151,157.0,144,117,171,222,80.1,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+140,Tokyo Institute of Technology,JAPAN,6,303.0,71,87.0,195,233,218,222,80.0,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+141,University of Montpellier,FRANCE,9,565.0,1001,214.0,142,129,125,139,80.0,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+142,Case Western Reserve University,USA,61,60.0,259,280.0,183,140,109,76,80.0,Very Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+143,Indiana University Bloomington,USA,62,237.0,78,133.0,267,193,161,163,79.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+144,Michigan State University,USA,63,209.0,281,1001.0,110,106,145,65,79.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+145,University of Western Australia,AUSTRALIA,7,273.0,663,253.0,123,123,141,121,79.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+146,University of Lausanne,SWITZERLAND,7,144.0,791,104.0,286,215,120,151,79.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+147,Technion  Israel Institute of Technology,ISRAEL,4,79.0,271,69.0,271,227,213,200,79.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+148,University of Milan,ITALY,2,384.0,691,229.0,117,130,184,114,79.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+149,Goethe University Frankfurt,GERMANY,9,220.0,642,107.0,219,205,152,222,79.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+150,University of Padua,ITALY,3,553.0,1001,1001.0,96,110,144,80,79.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+151,Oregon Health & Science University,USA,64,1001.0,1001,172.0,295,208,111,108,79.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+152,Autonomous University of Barcelona,SPAIN,2,1001.0,1001,153.0,131,135,206,187,79.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+153,Icahn School of Medicine at Mount Sinai,USA,65,1001.0,1001,1001.0,202,145,59,101,79.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+154,Tufts University,USA,66,100.0,64,229.0,272,212,178,151,79.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+155,University of Göttingen,GERMANY,10,80.0,316,224.0,188,171,138,187,79.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+156,Royal Institute of Technology,SWEDEN,4,266.0,45,126.0,242,232,322,222,79.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+157,Zhejiang University,CHINA,4,1001.0,568,1001.0,15,49,244,304,79.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+158,University of Glasgow,UNITED KINGDOM,12,284.0,264,1001.0,165,128,103,114,79.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+159,Stockholm University,SWEDEN,5,243.0,276,263.0,247,200,110,93,79.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+160,University of Notre Dame,USA,67,397.0,30,103.0,379,274,286,327,79.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+161,Université catholique de Louvain,BELGIUM,3,355.0,524,116.0,254,217,254,85,79.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+162,University of Sheffield,UNITED KINGDOM,13,330.0,440,281.0,154,147,160,93,79.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+163,University of Warwick,UNITED KINGDOM,14,221.0,239,164.0,233,184,204,151,79.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+164,University of Leeds,UNITED KINGDOM,15,104.0,291,1001.0,150,137,127,139,79.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+165,University of Freiburg,GERMANY,11,217.0,209,286.0,187,160,128,129,79.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+166,University of Gothenburg,SWEDEN,6,501.0,427,141.0,208,189,175,187,79.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+167,North Carolina State University,USA,68,121.0,416,153.0,170,168,235,200,79.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+168,Wageningen University and Research,NETHERLANDS,8,534.0,962,223.0,207,175,170,129,79.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+169,University of Birmingham,UNITED KINGDOM,16,164.0,355,292.0,129,119,142,187,79.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+170,Fudan University,CHINA,5,1001.0,210,1001.0,54,94,188,275,79.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+171,University of Hong Kong,HONG KONG,1,432.0,165,1001.0,136,132,183,114,79.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+172,University of Vienna,AUSTRIA,1,443.0,489,138.0,249,247,159,174,79.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+173,Nanyang Technological University,SINGAPORE,2,1001.0,1001,1001.0,93,85,243,121,79.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+174,Hokkaido University,JAPAN,7,415.0,305,177.0,137,173,209,304,79.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+175,Keio University,JAPAN,8,549.0,12,1001.0,303,324,273,363,79.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+176,Université libre de Bruxelles,BELGIUM,4,358.0,258,81.0,290,264,228,200,79.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+177,Iowa State University,USA,69,563.0,245,134.0,203,195,214,222,78.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+178,Chinese University of Hong Kong,HONG KONG,2,247.0,1001,141.0,180,156,304,174,78.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+179,University of Liverpool,UNITED KINGDOM,17,382.0,436,294.0,189,155,135,139,78.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+180,University of Georgia,USA,70,204.0,337,216.0,193,190,165,275,78.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+181,Paris Descartes University,FRANCE,10,482.0,916,1001.0,173,134,114,187,78.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+182,University of Massachusetts Medical School,USA,71,1001.0,1001,91.0,505,326,92,200,78.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+183,"University of Science and Technology, Korea",SOUTH KOREA,2,1001.0,1001,1001.0,41,92,270,254,78.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+184,University of Massachusetts Amherst,USA,72,297.0,253,198.0,289,226,212,121,78.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+185,University of Florence,ITALY,4,458.0,765,112.0,213,231,305,200,78.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+186,University of Münster,GERMANY,12,224.0,782,222.0,214,172,182,200,78.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+187,Queen Mary University of London,UNITED KINGDOM,18,241.0,907,198.0,276,223,156,200,78.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+188,Newcastle University,UNITED KINGDOM,19,1001.0,498,261.0,236,188,140,174,78.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+189,University of Chinese Academy of Sciences,CHINA,6,1001.0,1001,1001.0,14,37,220,898,78.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+190,University of MissouriColumbia,USA,73,490.0,190,115.0,265,244,261,222,78.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+191,University of Alabama at Birmingham,USA,74,1001.0,1001,1001.0,198,152,126,139,78.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+192,Durham University,UNITED KINGDOM,20,141.0,327,89.0,327,255,236,240,78.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+193,University of Connecticut,USA,75,573.0,417,141.0,210,191,211,254,78.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+194,University of Texas Health Science Center at Houston,USA,76,1001.0,1001,194.0,298,238,143,187,78.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+195,Yeshiva University,USA,77,336.0,1001,266.0,305,222,97,151,78.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+196,University of Calgary,CANADA,7,1001.0,213,1001.0,141,142,153,240,78.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+197,University of Miami,USA,78,1001.0,286,1001.0,204,174,137,129,78.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+198,Western University,CANADA,8,454.0,105,1001.0,164,164,202,167,78.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+199,Paul Sabatier University - Toulouse III,FRANCE,11,1001.0,1001,1001.0,185,161,116,174,78.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+200,Nanjing University,CHINA,7,479.0,563,1001.0,78,109,317,163,78.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+201,University of Bologna,ITALY,5,645.0,709,1001.0,116,127,260,129,78.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+202,Sun Yat-sen University,CHINA,8,1001.0,527,1001.0,71,113,302,200,78.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+203,Charles University in Prague,CZECH REPUBLIC,1,494.0,1001,241.0,135,230,237,200,78.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+204,University of Cincinnati,USA,79,290.0,195,1001.0,222,178,167,151,78.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+205,University of Ottawa,CANADA,9,366.0,431,1001.0,162,157,164,200,78.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+206,University of Liège,BELGIUM,5,159.0,1001,91.0,337,334,242,174,78.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+207,TU Dresden,GERMANY,13,1001.0,1001,1001.0,172,178,176,129,78.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+208,University of Turin,ITALY,6,597.0,1001,202.0,199,210,263,200,78.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+209,University of Science and Technology of China,CHINA,9,1001.0,347,1001.0,102,112,248,254,78.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+210,"University of Maryland, Baltimore",USA,80,1001.0,1001,1001.0,253,192,150,101,78.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+211,University of Sussex,UNITED KINGDOM,21,219.0,387,73.0,482,365,269,163,78.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+212,RWTH Aachen University,GERMANY,14,655.0,298,244.0,181,186,367,129,78.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+213,University of Cologne,GERMANY,15,1001.0,287,285.0,221,206,147,222,78.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+214,University of Würzburg,GERMANY,16,244.0,853,213.0,268,220,186,240,78.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+215,Technical University of Denmark,DENMARK,3,640.0,830,287.0,216,203,196,93,78.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+216,University of Erlangen-Nuremberg,GERMANY,17,346.0,928,1001.0,166,166,189,151,78.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+217,University of Illinois at Chicago,USA,81,431.0,1001,1001.0,169,149,205,151,78.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+218,Sungkyunkwan University,SOUTH KOREA,3,1001.0,237,1001.0,119,170,295,139,78.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+219,Louisiana State University,USA,82,548.0,345,1001.0,190,201,198,108,77.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+220,University of Lisbon,PORTUGAL,1,622.0,1001,291.0,109,154,291,167,77.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+221,Claude Bernard University Lyon 1,FRANCE,12,1001.0,1001,1001.0,171,150,158,254,77.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+222,Yonsei University,SOUTH KOREA,4,1001.0,116,1001.0,76,122,308,363,77.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+223,University of Cape Town,SOUTH AFRICA,1,216.0,294,187.0,293,299,190,254,77.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+224,University of Kansas,USA,83,324.0,270,1001.0,243,218,180,121,77.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+225,University College Dublin,IRELAND,1,492.0,310,127.0,315,291,276,200,77.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+226,Kyushu University,JAPAN,9,508.0,106,1001.0,124,176,238,363,77.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+227,University of Porto,PORTUGAL,2,195.0,655,191.0,179,245,323,304,77.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+228,"Trinity College, Dublin",IRELAND,2,524.0,96,283.0,335,300,222,129,77.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+229,University of Adelaide,AUSTRALIA,8,444.0,845,1001.0,197,199,194,187,77.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+230,University of the Witwatersrand,SOUTH AFRICA,2,133.0,80,216.0,367,377,187,304,77.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+231,University of Manitoba,CANADA,10,301.0,207,194.0,281,272,288,275,77.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+232,Karlsruhe Institute of Technology,GERMANY,18,652.0,334,244.0,211,209,326,275,77.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+233,University of Kiel,GERMANY,19,407.0,911,282.0,269,253,172,222,77.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+234,Johannes Gutenberg University Mainz,GERMANY,20,556.0,1001,279.0,239,213,193,254,77.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+235,Indiana University  Purdue University Indianapolis,USA,84,1001.0,943,1001.0,250,204,177,222,77.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+236,University of Auckland,NEW ZEALAND,1,481.0,468,1001.0,235,236,250,121,77.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+237,Korea University,SOUTH KOREA,5,1001.0,108,1001.0,115,159,384,363,77.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+238,University of Tsukuba,JAPAN,10,398.0,1001,130.0,259,277,266,405,77.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+239,Wake Forest University,USA,85,445.0,73,1001.0,366,285,231,167,77.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+240,Ulm University,GERMANY,21,1001.0,825,174.0,329,301,199,363,77.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+241,Queensland University of Technology,AUSTRALIA,9,1001.0,1001,1001.0,159,183,201,327,77.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+242,University of Lille,FRANCE,13,541.0,1001,1001.0,174,195,246,240,77.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+243,University of Aberdeen,UNITED KINGDOM,22,587.0,649,219.0,348,293,210,254,77.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+244,Colorado State University,USA,86,307.0,1001,254.0,282,256,216,304,77.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+245,"University of California, Riverside",USA,87,477.0,1001,1001.0,328,240,149,200,77.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+246,Virginia Commonwealth University,USA,88,1001.0,1001,189.0,330,278,251,304,77.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+247,University of Naples Federico II,ITALY,7,616.0,949,1001.0,149,177,338,200,77.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+248,Florida State University,USA,89,475.0,645,1001.0,275,235,232,139,77.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+249,Maastricht University,NETHERLANDS,9,1001.0,1001,1001.0,223,169,293,187,77.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+250,Brandeis University,USA,90,20.0,251,66.0,948,636,217,405,77.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+251,Oregon State University,USA,91,328.0,519,1001.0,294,267,173,187,77.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+252,University of Bergen,NORWAY,2,1001.0,1001,1001.0,264,241,181,222,77.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+253,Wayne State University,USA,92,1001.0,263,1001.0,266,234,267,163,77.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+254,"University of Tennessee, Knoxville",USA,93,585.0,288,1001.0,231,224,233,240,77.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+255,Umeå University,SWEDEN,7,1001.0,1001,238.0,336,281,207,275,77.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+256,London School of Hygiene & Tropical Medicine,UNITED KINGDOM,23,1001.0,1001,1001.0,392,257,151,174,77.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+257,University of New Mexico,USA,94,1001.0,1001,1001.0,304,251,174,200,77.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+258,National Autonomous University of Mexico,MEXICO,1,491.0,1001,1001.0,105,219,249,405,77.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+259,University of Kentucky,USA,95,611.0,535,1001.0,227,216,275,200,77.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+260,University of Warsaw,POLAND,1,150.0,1001,96.0,380,415,360,275,77.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+261,Queen's University,CANADA,11,588.0,378,141.0,320,287,316,363,77.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+262,University of South Florida,USA,96,1001.0,724,1001.0,256,248,256,174,77.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+263,Norwegian University of Science and Technology,NORWAY,3,523.0,397,88.0,339,349,463,327,77.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+264,Complutense University of Madrid,SPAIN,3,193.0,131,300.0,178,214,321,363,77.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+265,Xi'an Jiaotong University,CHINA,10,1001.0,201,1001.0,112,180,451,327,77.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+266,University of Leicester,UNITED KINGDOM,24,1001.0,1001,1001.0,345,280,131,275,77.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+267,Medical University of Vienna,AUSTRIA,2,1001.0,1001,1001.0,301,252,200,200,77.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+268,University of Waterloo,CANADA,12,1001.0,222,1001.0,196,194,353,275,77.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+269,Laval University,CANADA,13,564.0,499,1001.0,241,225,252,275,76.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+270,Shandong University,CHINA,11,1001.0,800,1001.0,84,153,571,327,76.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+271,University of Valencia,SPAIN,4,1001.0,1001,1001.0,215,237,349,174,76.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+272,University of East Anglia,UNITED KINGDOM,25,227.0,1001,227.0,471,353,224,187,76.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+273,University at Buffalo,USA,97,233.0,747,1001.0,263,221,292,222,76.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+274,London School of Economics,UNITED KINGDOM,26,44.0,85,90.0,655,506,627,240,76.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+275,Virginia Tech,USA,98,544.0,322,1001.0,206,211,259,363,76.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+276,Huazhong University of Science and Technology,CHINA,12,1001.0,244,1001.0,77,124,537,541,76.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+277,Washington State University,USA,99,1001.0,748,174.0,321,312,289,460,76.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+278,Dalhousie University,CANADA,14,218.0,290,1001.0,308,305,225,200,76.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+279,University of York,UNITED KINGDOM,27,1001.0,1001,1001.0,362,284,208,174,76.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+280,Autonomous University of Madrid,SPAIN,5,1001.0,932,1001.0,257,246,285,240,76.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+281,University of Exeter,UNITED KINGDOM,28,506.0,684,1001.0,331,270,168,327,76.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+282,University of South Carolina - Columbia,USA,100,1001.0,503,257.0,334,288,436,174,76.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+283,University of Rome Tor Vergata,ITALY,8,1001.0,1001,1001.0,273,282,303,174,76.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+284,Delft University of Technology,NETHERLANDS,10,566.0,406,1001.0,224,228,281,363,76.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+285,University of Pisa,ITALY,9,538.0,1001,1001.0,228,261,337,222,76.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+286,Kobe University,JAPAN,11,160.0,445,141.0,369,418,318,327,76.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+287,Leipzig University,GERMANY,22,599.0,1001,295.0,284,279,229,275,76.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+288,University of Delaware,USA,101,396.0,688,177.0,371,304,341,405,76.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+289,Georgetown University,USA,102,277.0,59,1001.0,427,331,319,275,76.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+290,University of Duisburg-Essen,GERMANY,23,1001.0,1001,1001.0,299,297,215,254,76.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+291,Ruhr University Bochum,GERMANY,24,1001.0,370,1001.0,245,259,283,327,76.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+292,University of Antwerp,BELGIUM,6,1001.0,714,1001.0,287,262,329,200,76.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+293,University of Buenos Aires,ARGENTINA,1,305.0,1001,231.0,237,306,350,460,76.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+294,University of Düsseldorf,GERMANY,25,409.0,1001,1001.0,347,317,219,222,76.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+295,KAIST,SOUTH KOREA,6,1001.0,156,1001.0,209,187,306,673,76.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+296,Sichuan University,CHINA,13,1001.0,1001,1001.0,75,181,370,898,76.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+297,National Cheng Kung University,TAIWAN,2,1001.0,102,1001.0,168,202,484,541,76.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+298,Federal University of Rio de Janeiro,BRAZIL,2,316.0,401,1001.0,192,316,328,304,76.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+299,University of Houston,USA,103,1001.0,114,1001.0,358,311,290,275,76.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+300,Harbin Institute of Technology,CHINA,14,1001.0,470,1001.0,104,163,794,405,76.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+301,University of Innsbruck,AUSTRIA,3,414.0,787,136.0,528,450,241,327,76.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+302,Chinese Academy of Medical Sciences & Peking Union Medical College,CHINA,15,1001.0,1001,1001.0,248,310,239,363,76.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+303,Waseda University,JAPAN,12,562.0,23,1001.0,470,471,445,541,76.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+304,University of Texas at Dallas,USA,104,412.0,493,185.0,521,401,383,222,76.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+305,National and Kapodistrian University of Athens,GREECE,1,1001.0,634,1001.0,201,268,416,275,76.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+306,University of Hawaii at Manoa,USA,105,1001.0,1001,100.0,574,447,245,541,76.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+307,University of Lorraine,FRANCE,14,470.0,376,271.0,311,328,314,363,76.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+308,George Washington University,USA,106,413.0,169,1001.0,352,295,234,405,76.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+309,University of Otago,NEW ZEALAND,2,1001.0,864,1001.0,323,308,282,254,76.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+310,Versailles Saint-Quentin-en-Yvelines University,FRANCE,15,1001.0,1001,1001.0,442,344,191,240,76.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+311,Simon Fraser University,CANADA,15,1001.0,1001,1001.0,370,302,262,254,76.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+312,Tongji University,CHINA,16,335.0,248,1001.0,156,250,396,541,76.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+313,University of NebraskaLincoln,USA,107,360.0,386,1001.0,325,298,309,275,76.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+314,University of Perugia,ITALY,10,1001.0,1001,164.0,426,412,307,460,76.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+315,Queen's University Belfast,UNITED KINGDOM,29,371.0,752,1001.0,356,309,294,254,76.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+316,University of Texas Health Science Center at San Antonio,USA,108,1001.0,1001,1001.0,489,358,240,167,76.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+317,University of Jena,GERMANY,26,1001.0,1001,299.0,278,266,264,460,76.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+318,University of Granada,SPAIN,6,1001.0,1001,1001.0,251,294,497,200,76.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+319,South China University of Technology,CHINA,17,1001.0,228,1001.0,200,242,661,304,76.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+320,University of Dundee,UNITED KINGDOM,30,318.0,1001,1001.0,536,391,192,174,76.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+321,Vrije Universiteit Brussel,BELGIUM,7,213.0,1001,1001.0,350,320,271,304,76.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+322,George Mason University,USA,109,1001.0,1001,85.0,560,487,357,460,76.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+323,King Abdulaziz University,SAUDI ARABIA,1,1001.0,1001,1001.0,255,357,274,363,76.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+324,Macquarie University,AUSTRALIA,10,1001.0,667,277.0,393,339,299,327,76.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+325,Pontifical Catholic University of Chile,CHILE,1,252.0,221,235.0,385,428,330,405,76.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+326,University of Guelph,CANADA,16,1001.0,1001,1001.0,360,352,325,200,76.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+327,University of Regensburg,GERMANY,27,1001.0,727,1001.0,386,341,258,275,76.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+328,Central South University,CHINA,18,1001.0,262,1001.0,129,262,617,460,76.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+329,Grenoble Institute of Technology,FRANCE,16,200.0,1001,261.0,388,354,572,200,75.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+330,Thomas Jefferson University,USA,110,274.0,1001,1001.0,461,368,331,151,75.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+331,Mines ParisTech,FRANCE,17,315.0,7,214.0,1001,1001,824,1001,75.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+332,University of St Andrews,UNITED KINGDOM,31,279.0,811,1001.0,437,318,197,405,75.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+333,Medical University of South Carolina,USA,111,1001.0,1001,1001.0,421,333,320,222,75.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+334,Jilin University,CHINA,19,463.0,551,1001.0,100,185,462,1001,75.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+335,Wuhan University,CHINA,20,1001.0,383,1001.0,143,207,458,898,75.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+336,Hanyang University,SOUTH KOREA,7,1001.0,241,1001.0,194,276,479,460,75.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+337,Nankai University,CHINA,21,628.0,354,1001.0,252,254,468,405,75.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+338,University of Southern Denmark,DENMARK,4,1001.0,1001,1001.0,376,329,280,327,75.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+339,University of Turku,FINLAND,2,1001.0,1001,1001.0,355,322,277,363,75.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+340,Hong Kong University of Science and Technology,HONG KONG,3,1001.0,496,1001.0,354,265,465,254,75.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+341,Temple University,USA,112,537.0,754,1001.0,382,321,296,327,75.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+342,Hong Kong Polytechnic University,HONG KONG,4,1001.0,301,1001.0,238,243,877,304,75.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+343,University of Belgrade,SERBIA,1,542.0,1001,1001.0,157,370,491,327,75.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+344,Northeastern University,USA,113,581.0,144,1001.0,473,360,247,363,75.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+345,University of Stuttgart,GERMANY,28,185.0,358,238.0,479,441,391,304,75.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+346,Dalian University of Technology,CHINA,22,1001.0,257,1001.0,176,269,745,405,75.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+347,Tianjin University,CHINA,23,1001.0,172,1001.0,182,249,677,541,75.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+348,Pohang University of Science and Technology,SOUTH KOREA,8,1001.0,1001,1001.0,363,315,352,304,75.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+349,University of Genoa,ITALY,11,1001.0,1001,1001.0,306,327,385,304,75.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+350,Hannover Medical School,GERMANY,29,1001.0,1001,1001.0,373,332,226,460,75.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+351,Griffith University,AUSTRALIA,11,1001.0,1001,1001.0,361,375,351,240,75.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+352,"University at Albany, SUNY",USA,114,130.0,920,204.0,600,473,411,254,75.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+353,University of Giessen,GERMANY,30,1001.0,1001,1001.0,387,356,390,222,75.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+354,Drexel University,USA,115,1001.0,292,1001.0,444,378,386,187,75.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+355,Aalto University,FINLAND,3,1001.0,238,1001.0,340,319,398,363,75.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+356,Pompeu Fabra University,SPAIN,7,1001.0,1001,1001.0,559,402,155,405,75.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+357,Linköping University,SWEDEN,8,1001.0,549,1001.0,343,330,388,327,75.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+358,City University of Hong Kong,HONG KONG,5,1001.0,1001,1001.0,262,239,798,327,75.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+359,University of the Basque Country,SPAIN,8,1001.0,1001,1001.0,288,296,343,541,75.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+360,University of Campinas,BRAZIL,3,1001.0,1001,1001.0,163,307,528,541,75.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+361,"Soochow University, China",CHINA,24,1001.0,1001,1001.0,226,271,704,405,75.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+362,Kansas State University,USA,116,288.0,451,1001.0,448,409,336,254,75.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+363,University of Victoria,CANADA,17,1001.0,1001,1001.0,428,351,365,275,75.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+364,Polytechnic University of Milan,ITALY,12,263.0,458,272.0,344,345,628,363,75.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+365,University of Oulu,FINLAND,4,503.0,665,1001.0,446,407,310,275,75.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+366,University of Pavia,ITALY,13,560.0,675,300.0,375,361,434,275,75.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+367,Southeast University,CHINA,25,385.0,1001,1001.0,175,286,654,541,75.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+368,Swedish University of Agricultural Sciences,SWEDEN,9,196.0,1001,1001.0,430,379,297,363,75.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+369,Xiamen University,CHINA,26,1001.0,177,1001.0,246,260,471,898,75.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+370,University of Ljubljana,SLOVENIA,1,1001.0,1001,1001.0,260,374,415,405,75.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+371,Islamic Azad University,IRAN,1,1001.0,1001,1001.0,66,406,1001,460,75.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+372,"UNESP, São Paulo State University",BRAZIL,4,1001.0,1001,1001.0,128,347,639,541,75.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+373,University of New Hampshire,USA,117,1001.0,508,120.0,762,612,340,405,75.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+374,Medical College of Wisconsin,USA,118,1001.0,1001,1001.0,499,387,268,327,75.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+375,Aristotle University of Thessaloniki,GREECE,2,1001.0,1001,1001.0,285,384,670,240,75.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+376,University of Vermont,USA,119,372.0,459,1001.0,524,389,301,304,75.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+377,Hiroshima University,JAPAN,13,1001.0,1001,1001.0,312,366,311,541,75.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+378,National Tsing Hua University,TAIWAN,3,321.0,1001,1001.0,316,273,489,460,75.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+379,Eindhoven University of Technology,NETHERLANDS,11,1001.0,759,259.0,377,335,526,541,75.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+380,University of Marburg,GERMANY,31,574.0,1001,303.0,439,364,265,460,75.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+381,Jagiellonian University,POLAND,2,1001.0,1001,1001.0,279,381,380,460,75.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+382,Pusan National University,SOUTH KOREA,9,1001.0,695,1001.0,204,343,519,541,75.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+383,Beijing Normal University,CHINA,27,110.0,1001,1001.0,277,313,510,541,75.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+384,University of Chile,CHILE,2,411.0,466,274.0,319,410,324,898,75.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+385,Kyung Hee University,SOUTH KOREA,10,489.0,1001,1001.0,240,342,561,460,75.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+386,Lancaster University,UNITED KINGDOM,32,1001.0,565,1001.0,456,388,424,254,75.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+387,Deakin University,AUSTRALIA,12,1001.0,922,1001.0,397,385,481,254,75.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+388,York University,CANADA,18,1001.0,243,1001.0,468,408,419,275,75.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+389,Okayama University,JAPAN,14,1001.0,491,1001.0,381,430,378,363,75.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+390,James Cook University,AUSTRALIA,13,1001.0,1001,1001.0,537,453,253,327,75.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+391,University of Bath,UNITED KINGDOM,33,1001.0,612,1001.0,475,392,356,327,75.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+392,University of Trieste,ITALY,14,1001.0,918,1001.0,535,457,315,254,75.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+393,"University of Oklahoma, Norman",USA,120,1001.0,360,1001.0,460,422,417,275,75.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+394,Ben-Gurion University of the Negev,ISRAEL,5,1001.0,1001,1001.0,313,303,399,673,75.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+395,University of Twente,NETHERLANDS,12,1001.0,927,1001.0,422,363,520,275,75.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+396,China Agricultural University,CHINA,28,1001.0,1001,1001.0,297,340,373,673,75.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+397,University of Wollongong,AUSTRALIA,14,1001.0,562,1001.0,410,381,403,363,75.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+398,Federal University of Rio Grande do Sul,BRAZIL,5,1001.0,1001,1001.0,230,419,507,460,75.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+399,University of Tasmania,AUSTRALIA,15,1001.0,1001,1001.0,459,398,284,460,75.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+400,Curtin University,AUSTRALIA,16,1001.0,1001,1001.0,324,338,300,898,74.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+401,TU Wien,AUSTRIA,4,662.0,737,1001.0,425,413,395,327,74.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+402,University of KwaZulu-Natal,SOUTH AFRICA,3,509.0,277,1001.0,400,526,347,327,74.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+403,University of Coimbra,PORTUGAL,3,659.0,1001,1001.0,332,395,433,405,74.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+404,University of Milano-Bicocca,ITALY,15,1001.0,1001,1001.0,409,369,375,405,74.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+405,University of Louisville,USA,121,462.0,877,1001.0,454,404,437,275,74.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+406,Federal University of Minas Gerais,BRAZIL,6,1001.0,668,1001.0,261,416,478,460,74.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+407,University of Reading,UNITED KINGDOM,34,466.0,104,1001.0,496,394,422,460,74.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+408,Kyungpook National University,SOUTH KOREA,11,1001.0,793,1001.0,280,373,682,363,74.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+409,University of Rennes 1,FRANCE,18,1001.0,1001,1001.0,404,350,376,460,74.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+410,Technical University of Berlin,GERMANY,32,184.0,479,1001.0,398,372,492,363,74.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+411,University of Saskatchewan,CANADA,19,618.0,647,1001.0,338,348,483,460,74.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+412,Martin Luther University of Halle-Wittenberg,GERMANY,33,653.0,1001,269.0,477,458,358,541,74.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+413,Eötvös Loránd University,HUNGARY,1,125.0,1001,141.0,629,619,490,405,74.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+414,University of Seville,SPAIN,9,1001.0,1001,1001.0,307,325,547,541,74.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+415,Polytechnic University of Catalonia,SPAIN,10,158.0,600,1001.0,349,359,620,405,74.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+416,Catholic University of the Sacred Heart,ITALY,16,1001.0,1001,1001.0,431,440,426,327,74.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+417,University of Konstanz,GERMANY,34,1001.0,1001,141.0,726,518,342,673,74.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+418,University of Eastern Finland,FINLAND,5,1001.0,1001,1001.0,440,383,332,541,74.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+419,École normale supérieure de Lyon,FRANCE,19,230.0,1001,273.0,646,461,230,673,74.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+420,Indian Institute of Science,INDIA,1,1001.0,573,1001.0,342,336,718,405,74.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+421,King Saud University,SAUDI ARABIA,2,1001.0,442,1001.0,191,435,452,898,74.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+422,Scuola Normale Superiore,ITALY,17,269.0,1001,74.0,919,663,551,541,74.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+423,University of Bremen,GERMANY,35,1001.0,1001,1001.0,514,472,287,405,74.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+424,University of Strathclyde,UNITED KINGDOM,35,1001.0,361,1001.0,466,424,523,304,74.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+425,University of Newcastle,AUSTRALIA,17,1001.0,1001,1001.0,399,367,402,541,74.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+426,University of Santiago de Compostela,SPAIN,11,1001.0,933,1001.0,401,411,567,327,74.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+427,National Chiao Tung University,TAIWAN,4,1001.0,340,1001.0,310,290,715,673,74.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+428,University of Oregon,USA,122,476.0,1001,1001.0,592,431,298,405,74.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+429,Tulane University,USA,123,576.0,295,1001.0,494,405,333,541,74.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+430,Rensselaer Polytechnic Institute,USA,124,139.0,153,1001.0,664,504,430,254,74.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+431,University of Bari,ITALY,18,1001.0,1001,1001.0,418,414,346,541,74.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+432,Chonnam National University,SOUTH KOREA,12,1001.0,1001,1001.0,317,403,619,405,74.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+433,Capital Medical University,CHINA,29,1001.0,1001,1001.0,292,429,642,405,74.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+434,King Abdullah University of Science and Technology,SAUDI ARABIA,3,1001.0,1001,168.0,693,451,394,898,74.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+435,Rush University,USA,125,1001.0,1001,1001.0,607,455,413,240,74.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+436,INSEAD,FRANCE,20,1001.0,2,1001.0,1001,1001,1001,1001,74.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+437,Texas Tech University,USA,126,1001.0,448,1001.0,423,416,539,363,74.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+438,University of Pretoria,SOUTH AFRICA,4,1001.0,686,246.0,416,555,600,460,74.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+439,New University of Lisbon,PORTUGAL,4,1001.0,1001,207.0,481,482,592,673,74.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+440,University of Oviedo,SPAIN,12,1001.0,1001,1001.0,480,462,425,327,74.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+441,Saint Louis University,USA,127,1001.0,363,287.0,613,517,334,363,74.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+442,Federal University of São Paulo,BRAZIL,7,1001.0,1001,1001.0,341,508,580,327,74.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+443,Vita-Salute San Raffaele University,ITALY,19,1001.0,1001,1001.0,618,446,255,460,74.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+444,University of Ulsan,SOUTH KOREA,13,1001.0,641,1001.0,322,376,473,673,74.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+445,University of Siena,ITALY,20,1001.0,1001,1001.0,506,468,429,304,74.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+446,University of La Laguna,SPAIN,13,1001.0,1001,1001.0,571,519,363,275,74.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+447,University of Nice Sophia Antipolis,FRANCE,21,513.0,1001,1001.0,555,474,278,460,74.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+448,Stellenbosch University,SOUTH AFRICA,5,555.0,139,1001.0,428,500,409,541,74.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+449,University of Zaragoza,SPAIN,14,666.0,971,1001.0,351,355,582,541,74.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+450,University of Canterbury,NEW ZEALAND,3,306.0,326,153.0,641,615,449,673,74.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+451,University of Malaya,MALAYSIA,1,1001.0,342,1001.0,225,397,879,673,74.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+452,Cairo University,EGYPT,1,569.0,1001,228.0,378,629,602,541,74.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+453,Aalborg University,DENMARK,5,1001.0,813,1001.0,486,463,470,327,74.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+454,University of Bordeaux,FRANCE,22,651.0,1001,1001.0,519,437,355,460,74.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+455,University of Central Florida,USA,128,1001.0,1001,1001.0,463,421,480,405,74.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+456,University of Ferrara,ITALY,21,1001.0,1001,1001.0,539,476,414,327,74.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+457,TU Darmstadt,GERMANY,36,137.0,772,1001.0,464,426,536,405,74.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+458,University of Savoy,FRANCE,23,1001.0,1001,1001.0,636,514,418,240,74.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+459,University of Mississippi,USA,129,1001.0,1001,1001.0,493,427,405,460,74.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+460,Lanzhou University,CHINA,30,1001.0,1001,1001.0,274,314,765,898,74.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+461,University of Tehran,IRAN,2,428.0,1001,254.0,217,436,1001,1001,74.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+462,University of Modena and Reggio Emilia,ITALY,22,1001.0,1001,1001.0,523,490,506,275,74.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+463,University of Zagreb,CROATIA,1,1001.0,1001,1001.0,296,549,503,460,74.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+464,Chalmers University of Technology,SWEDEN,10,657.0,419,1001.0,408,380,467,673,74.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+465,China University of Geosciences,CHINA,31,1001.0,1001,1001.0,353,486,534,460,74.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+466,Medical University of Innsbruck,AUSTRIA,5,1001.0,1001,1001.0,616,502,431,275,74.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+467,National Yang-Ming University,TAIWAN,5,1001.0,1001,1001.0,359,346,485,898,74.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+468,University of Sherbrooke,CANADA,20,1001.0,1001,1001.0,575,483,450,304,74.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+469,University of Texas Medical Branch,USA,130,1001.0,1001,1001.0,637,469,339,405,74.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+470,University of Verona,ITALY,23,1001.0,1001,1001.0,594,539,423,275,74.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+471,Mahidol University,THAILAND,1,1001.0,1001,1001.0,424,460,312,898,74.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+472,Polytechnic University of Valencia,SPAIN,15,1001.0,1001,1001.0,374,371,575,673,74.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+473,University College Cork,IRELAND,3,526.0,1001,1001.0,518,452,447,405,74.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+474,University of Hanover,GERMANY,37,1001.0,1001,1001.0,449,454,555,405,74.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+475,University of Parma,ITALY,24,1001.0,776,1001.0,516,481,533,327,74.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+476,University of Iceland,ICELAND,1,1001.0,1001,1001.0,770,597,257,327,74.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+477,University of Bayreuth,GERMANY,38,1001.0,1001,1001.0,667,523,362,327,74.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+478,West Virginia University,USA,131,600.0,260,1001.0,501,467,487,460,74.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+479,University of Trento,ITALY,25,1001.0,1001,1001.0,565,485,474,405,74.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+480,Georgia State University,USA,132,1001.0,664,1001.0,554,449,453,405,74.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+481,Southern Methodist University,USA,133,332.0,27,1001.0,976,735,605,460,74.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+482,Chiba University,JAPAN,15,1001.0,1001,1001.0,415,432,374,898,74.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+483,University of Nebraska Medical Center,USA,134,1001.0,1001,1001.0,649,509,345,405,73.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+484,University of Electronic Science and Technology of China,CHINA,32,1001.0,720,1001.0,291,393,952,673,73.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+485,Beihang University,CHINA,33,1001.0,803,1001.0,232,323,965,1001,73.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+486,San Diego State University,USA,135,497.0,456,1001.0,648,511,366,405,73.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+487,AgroParisTech,FRANCE,24,1001.0,505,1001.0,632,484,359,460,73.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+488,Chulalongkorn University,THAILAND,2,1001.0,117,1001.0,435,582,645,460,73.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+489,University of Tromsø  The Arctic University of Norway,NORWAY,4,1001.0,1001,1001.0,541,456,387,541,73.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+490,University of Tartu,ESTONIA,1,521.0,1001,1001.0,590,577,272,541,73.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+491,University of Alabama - Tuscaloosa,USA,136,299.0,246,1001.0,580,536,531,327,73.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+492,Bar-Ilan University,ISRAEL,6,533.0,840,1001.0,512,438,379,673,73.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+493,Flinders University,AUSTRALIA,18,253.0,1001,1001.0,511,476,406,541,73.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+494,Saarland University,GERMANY,39,1001.0,531,1001.0,464,420,469,673,73.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+495,Clemson University,USA,137,1001.0,980,1001.0,492,465,583,405,73.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+496,Hunan University,CHINA,34,1001.0,542,1001.0,365,400,1001,541,73.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+497,East China University of Science and Technology,CHINA,35,1001.0,1001,1001.0,300,362,829,898,73.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+498,"Open University, UK",UNITED KINGDOM,36,1001.0,1001,194.0,788,701,432,541,73.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+499,University of Wyoming,USA,138,1001.0,559,1001.0,715,561,344,363,73.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+500,Lehigh University,USA,139,289.0,48,1001.0,891,695,500,405,73.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,101-500
+501,National Central University,TAIWAN,6,402.0,1001,1001.0,451,444,455,673,73.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+502,Tilburg University,NETHERLANDS,13,1001.0,395,172.0,760,575,1001,460,73.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+503,University of Science and Technology Beijing,CHINA,36,1001.0,204,1001.0,333,439,1001,673,73.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+504,University of Surrey,UNITED KINGDOM,37,406.0,475,1001.0,525,459,545,460,73.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+505,Tokyo Medical and Dental University,JAPAN,16,1001.0,1001,1001.0,563,505,369,541,73.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+506,Paris Dauphine University,FRANCE,25,118.0,171,128.0,955,677,495,898,73.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+507,University of Potsdam,GERMANY,40,1001.0,1001,1001.0,601,489,327,673,73.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+508,Brigham Young University,USA,140,571.0,829,1001.0,584,527,440,405,73.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+509,University of Palermo,ITALY,26,1001.0,1001,1001.0,438,494,633,460,73.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+510,Chang Gung University,TAIWAN,7,1001.0,1001,1001.0,314,337,687,1001,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+511,University of Catania,ITALY,27,425.0,1001,1001.0,419,469,771,460,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+512,Boston College,USA,141,1001.0,152,1001.0,813,611,368,363,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+513,University of Nantes,FRANCE,26,1001.0,1001,1001.0,568,497,509,405,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+514,University of Tampere,FINLAND,6,1001.0,715,1001.0,638,528,381,460,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+515,Beijing Institute of Technology,CHINA,37,1001.0,1001,1001.0,309,399,1001,673,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+516,University of Poitiers,FRANCE,27,496.0,1001,188.0,784,662,609,541,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+517,Utah State University,USA,142,352.0,726,1001.0,657,579,438,363,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+518,NUI Galway,IRELAND,4,1001.0,1001,1001.0,651,565,442,363,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+519,Tata Institute of Fundamental Research,INDIA,2,1001.0,1001,1001.0,699,534,444,363,73.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+520,University of Burgundy,FRANCE,28,450.0,1001,1001.0,566,498,504,460,73.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+521,National Chung Hsing University,TAIWAN,8,1001.0,333,1001.0,467,478,741,541,73.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+522,University of Minho,PORTUGAL,5,1001.0,1001,1001.0,507,542,696,363,73.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+523,University of Hull,UNITED KINGDOM,38,554.0,223,201.0,754,631,573,898,73.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+524,"St George's, University of London",UNITED KINGDOM,39,1001.0,1001,1001.0,825,633,407,254,73.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+525,Hacettepe University,TURKEY,1,1001.0,1001,1001.0,390,684,521,460,73.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+526,Loyola University Chicago,USA,143,1001.0,819,1001.0,744,608,404,327,73.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+527,Oklahoma State University,USA,144,474.0,399,1001.0,502,487,754,460,73.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+528,Colorado School of Mines,USA,145,1001.0,61,1001.0,880,717,549,405,73.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+529,Swansea University,UNITED KINGDOM,40,1001.0,1001,1001.0,639,533,427,460,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+530,National Polytechnic Institute of Toulouse,FRANCE,29,1001.0,206,1001.0,567,499,700,460,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+531,Massey University,NEW ZEALAND,4,1001.0,967,1001.0,573,593,482,405,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+532,Florida International University,USA,146,1001.0,1001,1001.0,538,492,544,541,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+533,East China Normal University,CHINA,38,1001.0,522,1001.0,383,386,626,1001,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+534,La Trobe University,AUSTRALIA,19,1001.0,1001,1001.0,529,491,392,898,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+535,Chongqing University,CHINA,39,1001.0,597,1001.0,302,423,1001,898,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+536,Shanghai University,CHINA,40,1001.0,989,1001.0,357,443,1001,673,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+537,University of Plymouth,UNITED KINGDOM,41,1001.0,1001,1001.0,695,563,477,363,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+538,Ewha Womans University,SOUTH KOREA,14,1001.0,1001,1001.0,487,463,588,673,73.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+539,Technical University of Dortmund,GERMANY,41,1001.0,1001,1001.0,588,512,560,460,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+540,"Royal Holloway, University of London",UNITED KINGDOM,42,381.0,926,1001.0,836,648,397,304,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+541,Saint Petersburg State University,RUSSIA,2,81.0,452,1001.0,402,601,557,898,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+542,Bielefeld University,GERMANY,42,1001.0,1001,1001.0,652,537,408,541,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+543,Northwestern Polytechnical University,CHINA,41,1001.0,682,1001.0,326,425,1001,898,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+544,Konkuk University,SOUTH KOREA,15,1001.0,854,1001.0,384,515,799,673,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+545,National University of La Plata,ARGENTINA,2,1001.0,1001,1001.0,474,555,598,541,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+546,Auburn University,USA,147,359.0,267,1001.0,491,521,622,673,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+547,Tehran University of Medical Sciences,IRAN,3,1001.0,1001,1001.0,283,739,635,673,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+548,"China Medical University, Taiwan",TAIWAN,9,1001.0,1001,1001.0,395,389,647,1001,73.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+549,Nanjing Agricultural University,CHINA,42,1001.0,1001,1001.0,450,480,713,673,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+550,"University of Maine, Orono",USA,148,626.0,1001,141.0,1001,865,502,460,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+551,University of Aveiro,PORTUGAL,6,1001.0,1001,1001.0,413,433,821,898,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+552,Catholic University of Korea,SOUTH KOREA,16,1001.0,1001,1001.0,394,541,749,673,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+553,University of Salamanca,SPAIN,16,1001.0,959,1001.0,621,588,494,460,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+554,Second Military Medical University,CHINA,43,1001.0,1001,1001.0,477,522,612,673,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+555,Syracuse University,USA,149,229.0,279,1001.0,678,524,548,541,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+556,Moscow Institute of Physics and Technology,RUSSIA,3,22.0,636,1001.0,734,820,688,673,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+557,Carleton University,CANADA,21,1001.0,1001,1001.0,548,532,881,405,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+558,University of Texas at Arlington,USA,150,1001.0,1001,1001.0,660,548,607,405,73.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+559,National Polytechnic Institute,MEXICO,2,614.0,1001,1001.0,405,614,611,673,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+560,Istanbul University,TURKEY,2,498.0,1001,1001.0,364,758,513,673,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+561,Kanazawa University,JAPAN,17,1001.0,639,1001.0,533,558,501,673,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+562,University of Technology Sydney,AUSTRALIA,20,1001.0,1001,1001.0,503,445,614,898,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+563,University of Alaska Fairbanks,USA,151,1001.0,646,1001.0,819,691,393,363,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+564,Western Sydney University,AUSTRALIA,21,1001.0,1001,1001.0,635,547,428,673,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+565,"Birkbeck, University of London",UNITED KINGDOM,43,341.0,1001,211.0,1001,767,364,673,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+566,"University of Science, Malaysia",MALAYSIA,2,1001.0,1001,1001.0,391,625,959,541,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+567,University of Arkansas - Fayetteville,USA,152,430.0,463,1001.0,624,610,784,363,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+568,Baylor University,USA,153,1001.0,398,1001.0,787,628,512,363,73.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+569,University of Oklahoma Health Sciences Center,USA,154,1001.0,1001,1001.0,758,574,439,460,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+570,University of South Australia,AUSTRALIA,22,1001.0,492,1001.0,564,538,673,541,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+571,Masaryk University,CZECH REPUBLIC,2,1001.0,1001,1001.0,500,590,435,898,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+572,University of WisconsinMilwaukee,USA,155,452.0,422,1001.0,647,546,466,673,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+573,Polytechnic University of Madrid,SPAIN,17,365.0,547,1001.0,414,448,657,1001,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+574,University of Rostock,GERMANY,43,664.0,1001,1001.0,485,496,597,898,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+575,Victoria University of Wellington,NEW ZEALAND,5,390.0,629,1001.0,702,606,421,541,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+576,Warsaw University of Technology,POLAND,3,632.0,1001,1001.0,570,717,833,304,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+577,Nanjing Medical University,CHINA,44,1001.0,1001,1001.0,368,479,692,1001,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+578,Montana State University - Bozeman,USA,156,1001.0,1001,1001.0,835,651,354,460,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+579,Memorial University of Newfoundland,CANADA,22,1001.0,836,1001.0,662,594,552,460,73.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+580,Chonbuk National University,SOUTH KOREA,17,1001.0,1001,1001.0,389,507,875,898,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+581,Tokyo Metropolitan University,JAPAN,18,260.0,887,1001.0,772,708,540,304,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+582,College of William & Mary,USA,157,1001.0,97,1001.0,887,715,581,405,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+583,Braunschweig University of Technology,GERMANY,44,439.0,1001,1001.0,670,622,382,673,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+584,University of Québec at Montreal,CANADA,23,1001.0,936,1001.0,656,540,559,541,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+585,CINVESTAV,MEXICO,3,1001.0,1001,1001.0,552,599,498,673,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+586,CentraleSupélec,FRANCE,30,1001.0,42,1001.0,892,724,1001,673,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+587,Nanjing University of Science and Technology,CHINA,45,1001.0,694,1001.0,457,559,1001,541,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+588,Huazhong Agricultural University,CHINA,46,1001.0,1001,1001.0,513,525,535,898,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+589,HEC Paris,FRANCE,31,1001.0,6,1001.0,1001,1001,1001,1001,72.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+590,Zhengzhou University,CHINA,47,1001.0,1001,1001.0,346,513,757,1001,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+591,SUNY Downstate Medical Center,USA,158,1001.0,1001,194.0,1001,872,499,460,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+592,Sharif University of Technology,IRAN,4,198.0,1001,1001.0,432,567,1001,541,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+593,National Sun Yat-sen University,TAIWAN,10,1001.0,1001,1001.0,508,529,995,541,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+594,University of Clermont Auvergne,FRANCE,32,1001.0,1001,284.0,747,586,568,541,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+595,Novosibirsk State University,RUSSIA,4,255.0,1001,1001.0,509,652,663,541,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+596,Middle East Technical University,TURKEY,3,1001.0,328,1001.0,504,634,1001,460,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+597,Yokohama City University,JAPAN,19,1001.0,218,1001.0,790,745,372,541,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+598,Beijing University of Chemical Technology,CHINA,48,1001.0,1001,1001.0,462,475,1001,673,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+599,"University of Nevada, Reno",USA,159,1001.0,965,1001.0,727,613,516,460,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+600,Otto von Guericke University Magdeburg,GERMANY,45,1001.0,1001,1001.0,640,550,625,541,72.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+601,Kitasato University,JAPAN,20,1001.0,1001,157.0,759,810,750,898,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+602,University of Montana - Missoula,USA,160,644.0,1001,1001.0,982,761,361,327,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+603,University of Jyväskylä,FINLAND,7,1001.0,1001,1001.0,593,510,518,898,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+604,University of Arkansas for Medical Sciences,USA,161,1001.0,1001,1001.0,732,569,589,460,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+605,University of Crete,GREECE,3,1001.0,1001,1001.0,698,576,530,541,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+606,University of Lübeck,GERMANY,46,1001.0,1001,1001.0,884,659,335,541,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+607,Chungnam National University,SOUTH KOREA,18,1001.0,1001,1001.0,403,494,712,1001,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+608,Chung-Ang University,SOUTH KOREA,19,1001.0,1001,1001.0,441,545,1001,673,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+609,Inha University,SOUTH KOREA,20,1001.0,670,1001.0,434,592,1001,673,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+610,Palacký University Olomouc,CZECH REPUBLIC,3,1001.0,1001,1001.0,690,713,563,405,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+611,University of Salerno,ITALY,28,1001.0,1001,1001.0,610,557,737,541,72.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+612,Loughborough University,UNITED KINGDOM,44,1001.0,1001,1001.0,520,562,1001,541,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+613,Medical University of Graz,AUSTRIA,6,1001.0,1001,1001.0,671,530,446,898,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+614,Polytechnic University of Turin,ITALY,29,1001.0,816,1001.0,484,493,919,898,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+615,Indian Institute of Technology Bombay,INDIA,3,1001.0,809,1001.0,531,516,1001,673,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+616,Ege University,TURKEY,4,1001.0,1001,1001.0,472,863,979,363,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+617,Shinshu University,JAPAN,21,1001.0,1001,1001.0,631,682,716,405,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+618,Niigata University,JAPAN,22,515.0,621,1001.0,615,655,488,673,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+619,University of Kent,UNITED KINGDOM,45,378.0,784,1001.0,706,616,443,673,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+620,University of Haifa,ISRAEL,7,354.0,935,1001.0,619,559,476,898,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+621,University of Cantabria,SPAIN,18,1001.0,1001,1001.0,776,664,608,363,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+622,University of Cagliari,ITALY,30,1001.0,1001,1001.0,603,553,651,673,72.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+623,University of Tennessee Health Science Center,USA,162,1001.0,1001,1001.0,751,580,371,898,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+624,Kangwon National University,SOUTH KOREA,21,1001.0,1001,1001.0,555,675,812,460,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+625,Ankara University,TURKEY,5,1001.0,775,1001.0,455,829,666,541,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+626,Southern Medical University,CHINA,49,1001.0,1001,1001.0,515,602,770,673,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+627,National Technical University of Athens,GREECE,4,418.0,817,1001.0,551,585,1001,460,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+628,Kumamoto University,JAPAN,23,545.0,638,1001.0,611,564,522,898,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+629,Nagasaki University,JAPAN,24,529.0,247,1001.0,666,692,766,460,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+630,University of Udine,ITALY,31,1001.0,1001,1001.0,752,653,410,673,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+631,University of Greifswald,GERMANY,47,1001.0,1001,297.0,755,687,511,460,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+632,Fourth Military Medical University,CHINA,50,1001.0,1001,1001.0,510,566,669,898,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+633,AGH University of Science and Technology,POLAND,4,512.0,719,1001.0,494,700,908,541,72.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+634,RMIT University,AUSTRALIA,23,1001.0,1001,1001.0,544,542,1001,673,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+635,China University of Petroleum,CHINA,51,1001.0,712,1001.0,411,578,1001,898,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+636,Nanjing University of Aeronautics and Astronautics,CHINA,52,1001.0,1001,1001.0,469,552,1001,673,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+637,École nationale d'administration,FRANCE,33,1001.0,4,1001.0,1001,1001,1001,1001,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+638,Mississippi State University,USA,163,329.0,412,1001.0,622,654,601,673,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+639,"University of Maryland, Baltimore County",USA,164,1001.0,1001,1001.0,894,658,389,541,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+640,University of Murcia,SPAIN,19,528.0,1001,1001.0,557,568,847,673,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+641,Augusta University,USA,165,1001.0,1001,1001.0,779,572,475,673,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+642,Isfahan University of Technology,IRAN,5,1001.0,1001,1001.0,542,716,1001,405,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+643,Swinburne University of Technology,AUSTRALIA,24,1001.0,1001,1001.0,822,632,460,541,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+644,Stockholm School of Economics,SWEDEN,11,1001.0,21,252.0,1001,1001,830,673,72.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+645,Northwest A&F University,CHINA,53,1001.0,1001,1001.0,452,501,828,1001,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+646,Wuhan University of Technology,CHINA,54,1001.0,1001,1001.0,558,571,1001,541,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+647,University of Graz,AUSTRIA,7,639.0,1001,289.0,729,626,569,673,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+648,Istanbul Technical University,TURKEY,6,1001.0,785,1001.0,587,711,1001,405,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+649,University of Texas at San Antonio,USA,166,1001.0,1001,1001.0,738,621,486,673,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+650,International School for Advanced Studies,ITALY,32,1001.0,1001,1001.0,942,753,493,327,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+651,Indian Institute of Technology Madras,INDIA,4,1001.0,189,1001.0,534,551,1001,898,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+652,ESPCI Paris,FRANCE,34,592.0,1001,260.0,1001,741,401,673,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+653,University of Navarra,SPAIN,20,1001.0,99,1001.0,677,589,701,1001,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+654,Taipei Medical University,TAIWAN,11,1001.0,1001,1001.0,498,466,852,1001,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+655,Kaohsiung Medical University,TAIWAN,12,1001.0,1001,1001.0,522,531,903,898,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+656,École normale supérieure Paris-Saclay,FRANCE,35,92.0,198,141.0,1001,959,835,541,72.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+657,Southwest University,CHINA,55,547.0,1001,1001.0,497,520,1001,898,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+658,Semmelweis University,HUNGARY,2,1001.0,1001,1001.0,681,669,412,898,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+659,Rio de Janeiro State University,BRAZIL,8,1001.0,1001,1001.0,582,667,624,673,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+660,Gwangju Institute of Science and Technology,SOUTH KOREA,22,1001.0,1001,1001.0,781,637,648,460,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+661,University of Calabria,ITALY,33,1001.0,1001,1001.0,669,630,1001,460,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+662,"University of Córdoba, Spain",SPAIN,21,1001.0,1001,1001.0,686,623,961,460,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+663,University of Campania Luigi Vanvitelli,ITALY,34,1001.0,1001,1001.0,609,595,761,673,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+664,Rovira i Virgili University,SPAIN,22,1001.0,1001,1001.0,668,535,603,898,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+665,University of Idaho,USA,167,1001.0,1001,1001.0,818,698,524,460,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+666,University of Louisiana at Lafayette,USA,168,1001.0,1001,1001.0,984,768,538,304,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+667,Czech Technical University in Prague,CZECH REPUBLIC,4,631.0,1001,1001.0,673,679,789,460,72.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+668,University of Franche-Comté,FRANCE,36,410.0,1001,1001.0,701,641,705,541,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+669,Rutgers UniversityNewark,USA,169,1001.0,1001,157.0,1001,775,527,1001,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+670,University of Patras,GREECE,5,1001.0,1001,1001.0,545,596,1001,673,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+671,Indian Institute of Technology Delhi,INDIA,5,283.0,95,1001.0,549,634,1001,1001,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+672,Fuzhou University,CHINA,56,1001.0,797,1001.0,694,649,1001,363,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+673,Comenius University in Bratislava,SLOVAK REPUBLIC,1,1001.0,1001,1001.0,602,762,691,541,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+674,Brunel University London,UNITED KINGDOM,46,1001.0,540,1001.0,654,584,850,673,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+675,Osaka City University,JAPAN,25,153.0,591,1001.0,689,673,786,541,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+676,Indian Institute of Technology Kharagpur,INDIA,6,1001.0,435,1001.0,433,503,1001,1001,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+677,University of Akron,USA,170,1001.0,734,1001.0,848,720,733,363,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+678,Kindai University,JAPAN,26,1001.0,1001,1001.0,713,772,778,405,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+679,Gazi University,TURKEY,7,1001.0,1001,1001.0,443,854,1001,541,72.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+680,Jiangnan University,CHINA,57,1001.0,1001,1001.0,476,607,1001,898,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+681,University of Rhode Island,USA,171,1001.0,487,1001.0,907,738,441,541,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+682,"University of North Texas, Denton",USA,172,1001.0,986,1001.0,745,699,730,460,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+683,University of Málaga,SPAIN,23,1001.0,1001,1001.0,628,600,922,673,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+684,INSA Lyon,FRANCE,37,1001.0,1001,1001.0,661,587,888,673,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+685,Shenzhen University,CHINA,58,1001.0,783,1001.0,665,627,785,673,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+686,University of Eastern Piedmont,ITALY,35,1001.0,1001,1001.0,851,706,674,405,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+687,Kent State University,USA,173,1001.0,1001,1001.0,789,697,472,673,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+688,Army Medical University,CHINA,59,1001.0,1001,1001.0,599,639,653,898,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+689,Amirkabir University of Technology,IRAN,6,1001.0,1001,1001.0,396,659,1001,898,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+690,Gyeongsang National University,SOUTH KOREA,23,1001.0,1001,1001.0,572,670,865,673,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+691,Jinan University,CHINA,60,1001.0,603,1001.0,517,597,679,1001,72.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+692,"Northwest University, China",CHINA,61,1001.0,1001,1001.0,691,813,1001,363,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+693,Central China Normal University,CHINA,62,1001.0,1001,1001.0,716,647,864,541,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+694,Federal University of Santa Catarina,BRAZIL,9,1001.0,1001,1001.0,453,603,884,1001,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+695,Liverpool John Moores University,UNITED KINGDOM,47,1001.0,1001,1001.0,885,693,420,673,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+696,University of Debrecen,HUNGARY,3,1001.0,1001,1001.0,696,755,655,541,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+697,Ocean University of China,CHINA,63,1001.0,1001,1001.0,483,573,876,1001,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+698,Nihon University,JAPAN,27,580.0,1001,1001.0,547,733,630,898,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+699,Roma Tre University,ITALY,36,1001.0,1001,1001.0,748,671,711,541,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+700,Ajou University,SOUTH KOREA,24,1001.0,993,1001.0,562,640,804,898,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+701,Juntendo University,JAPAN,28,1001.0,1001,1001.0,746,686,570,673,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+702,Tianjin Medical University,CHINA,64,1001.0,1001,1001.0,612,676,843,673,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+703,University of Brescia,ITALY,37,1001.0,1001,1001.0,705,624,584,898,71.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+704,University of Castilla-La Mancha,SPAIN,24,1001.0,1001,1001.0,581,554,1001,898,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+705,Donghua University,CHINA,65,1001.0,1001,1001.0,626,704,1001,460,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+706,City College of New York,USA,174,52.0,411,1001.0,1001,788,496,673,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+707,"Northeastern University, China",CHINA,66,1001.0,515,1001.0,420,581,1001,1001,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+708,University of Girona,SPAIN,25,1001.0,1001,1001.0,742,618,1001,541,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+709,Federal University of Paraná,BRAZIL,10,1001.0,1001,1001.0,436,657,872,1001,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+710,University of Portsmouth,UNITED KINGDOM,48,1001.0,1001,1001.0,943,796,775,304,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+711,University of Fribourg,SWITZERLAND,8,405.0,374,1001.0,945,713,515,541,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+712,University of Ioannina,GREECE,6,1001.0,1001,1001.0,741,671,808,541,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+713,Norwegian University of Life Sciences,NORWAY,5,1001.0,1001,1001.0,737,649,564,898,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+714,Keele University,UNITED KINGDOM,49,1001.0,1001,1001.0,889,710,562,541,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+715,Ain Shams University,EGYPT,2,1001.0,1001,1001.0,606,870,779,541,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+716,"Paul Valéry University, Montpellier III",FRANCE,38,1001.0,1001,1001.0,1001,889,576,275,71.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+717,Carl von Ossietzky University of Oldenburg,GERMANY,48,1001.0,1001,1001.0,865,742,550,541,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+718,Graz University of Technology,AUSTRIA,8,1001.0,1001,1001.0,780,708,957,460,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+719,Concordia University,CANADA,24,1001.0,268,1001.0,605,544,1001,1001,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+720,Graduate University for Advanced Studies,JAPAN,29,1001.0,1001,1001.0,910,685,313,1001,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+721,Nanjing Tech University,CHINA,67,1001.0,1001,1001.0,576,582,1001,898,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+722,Xidian University,CHINA,68,1001.0,1001,1001.0,447,570,1001,1001,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+723,Tokyo University of Science,JAPAN,30,429.0,1001,1001.0,597,620,636,1001,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+724,Jiangsu University,CHINA,69,1001.0,1001,1001.0,458,604,1001,1001,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+725,"University of the Republic, Uruguay",URUGUAY,1,1001.0,1001,1001.0,808,836,615,460,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+726,University of Delhi,INDIA,7,293.0,146,1001.0,569,724,839,1001,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+727,Northern Illinois University,USA,175,1001.0,561,1001.0,950,795,840,327,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+728,University of Angers,FRANCE,39,1001.0,1001,1001.0,799,696,595,673,71.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+729,University of MissouriKansas City,USA,176,567.0,624,1001.0,840,681,459,898,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+730,Örebro University,SWEDEN,12,1001.0,882,1001.0,961,827,623,363,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+731,University of Vigo,SPAIN,26,1001.0,1001,1001.0,617,591,1001,898,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+732,"All India Institute of Medical Sciences, Delhi",INDIA,8,1001.0,1001,1001.0,720,934,542,541,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+733,National Research Nuclear University MEPhI,RUSSIA,5,598.0,1001,1001.0,771,881,656,460,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+734,University of Salento,ITALY,38,1001.0,1001,1001.0,805,753,832,460,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+735,South China Normal University,CHINA,70,1001.0,976,1001.0,595,604,1001,898,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+736,École pratique des hautes études,FRANCE,40,36.0,1001,1001.0,1001,936,594,363,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+737,University of Brasília,BRAZIL,11,1001.0,921,1001.0,561,799,680,898,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+738,Bangor University,UNITED KINGDOM,50,446.0,824,1001.0,866,656,613,673,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+739,Federal University of Viçosa,BRAZIL,12,1001.0,1001,1001.0,540,930,1001,541,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+740,Bo?aziçi University,TURKEY,8,300.0,681,1001.0,898,825,866,363,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+741,Adam Mickiewicz University in Pozna?,POLAND,5,325.0,1001,1001.0,591,683,972,898,71.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+742,"Putra University, Malaysia",MALAYSIA,3,1001.0,1001,1001.0,406,705,1001,1001,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+743,Southern Illinois University Carbondale,USA,177,383.0,1001,1001.0,763,665,599,898,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+744,Hong Kong Baptist University,HONG KONG,6,1001.0,1001,1001.0,724,644,1001,673,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+745,Nanjing Normal University,CHINA,71,1001.0,1001,1001.0,682,674,735,898,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+746,"University of Nevada, Las Vegas",USA,178,1001.0,1001,1001.0,796,687,546,898,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+747,Ehime University,JAPAN,31,1001.0,909,1001.0,750,703,596,898,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+748,Vilnius University,LITHUANIA,1,621.0,1001,1001.0,676,815,721,673,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+749,University of Messina,ITALY,39,1001.0,1001,1001.0,586,678,1001,898,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+750,Illinois Institute of Technology,USA,179,156.0,110,1001.0,1001,821,860,541,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+751,Miami University,USA,180,1001.0,119,1001.0,965,822,810,541,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+752,University Paris-Est Créteil,FRANCE,41,1001.0,818,1001.0,904,734,662,541,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+753,"University of Natural Resources and Life Sciences, Vienna",AUSTRIA,9,1001.0,1001,1001.0,811,803,683,541,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+754,National University of Defense Technology,CHINA,72,1001.0,1001,1001.0,490,645,1001,1001,71.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+755,Jean Monnet University,FRANCE,42,1001.0,1001,1001.0,753,646,529,1001,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+756,Tarbiat Modares University,IRAN,7,1001.0,1001,1001.0,417,723,1001,1001,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+757,Old Dominion University,USA,181,1001.0,1001,1001.0,859,791,644,541,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+758,University of Szeged,HUNGARY,4,1001.0,1001,292.0,684,742,826,898,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+759,University of Texas Rio Grande Valley,USA,182,1001.0,1001,1001.0,1001,854,604,405,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+760,Iran University of Science and Technology,IRAN,8,1001.0,1001,1001.0,546,785,1001,673,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+761,Jadavpur University,INDIA,9,1001.0,1001,1001.0,659,841,1001,460,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+762,National University of Córdoba,ARGENTINA,3,1001.0,1001,1001.0,740,757,795,673,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+763,Harbin Medical University,CHINA,73,1001.0,1001,1001.0,585,724,1001,898,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+764,Heriot-Watt University,UNITED KINGDOM,51,1001.0,517,1001.0,733,642,606,1001,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+765,University of Toledo,USA,183,1001.0,1001,1001.0,791,668,629,898,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+766,National University of Colombia,COLOMBIA,1,1001.0,766,1001.0,633,874,618,898,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+767,University of Alicante,SPAIN,27,1001.0,1001,1001.0,700,719,1001,673,71.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+768,University of Essex,UNITED KINGDOM,52,240.0,637,1001.0,925,730,746,541,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+769,University of L'Aquila,ITALY,40,1001.0,1001,1001.0,809,756,873,541,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+770,New Mexico State University,USA,184,1001.0,904,1001.0,897,773,649,541,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+771,Makerere University,UGANDA,1,448.0,1001,1001.0,981,779,456,673,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+772,University of Split,CROATIA,2,1001.0,1001,1001.0,997,1001,454,405,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+773,University of North Carolina at Charlotte,USA,185,1001.0,532,1001.0,855,789,758,541,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+774,Banaras Hindu University,INDIA,10,487.0,606,1001.0,543,781,1001,898,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+775,Ulsan National Institute of Science and Technology,SOUTH KOREA,25,1001.0,1001,1001.0,925,642,731,673,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+776,University of Wroc?aw,POLAND,6,650.0,1001,1001.0,708,750,1001,673,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+777,University of Stirling,UNITED KINGDOM,53,1001.0,601,1001.0,969,783,728,460,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+778,Nanchang University,CHINA,74,1001.0,1001,1001.0,589,707,1001,898,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+779,University of Hohenheim,GERMANY,49,1001.0,1001,1001.0,877,793,694,541,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+780,École des ponts ParisTech,FRANCE,43,57.0,26,1001.0,1001,1001,1001,1001,71.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+781,Jawaharlal Nehru Centre for Advanced Scientific Research,INDIA,11,1001.0,1001,185.0,1001,956,921,673,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+782,University of Kaiserslautern,GERMANY,50,1001.0,997,1001.0,911,786,660,541,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+783,American University of Beirut,LEBANON,1,202.0,176,1001.0,899,862,698,673,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+784,King Fahd University of Petroleum and Minerals,SAUDI ARABIA,4,1001.0,122,1001.0,743,899,1001,673,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+785,"China Medical University, PRC",CHINA,75,1001.0,1001,1001.0,526,736,904,1001,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+786,Paris 13 University,FRANCE,44,1001.0,1001,1001.0,830,712,807,673,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+787,Tampere University of Technology,FINLAND,8,1001.0,318,1001.0,905,859,707,541,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+788,Tokyo University of Agriculture and Technology,JAPAN,32,1001.0,1001,1001.0,720,759,1001,673,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+789,Bilkent University,TURKEY,9,1001.0,856,1001.0,967,798,763,460,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+790,University of Johannesburg,SOUTH AFRICA,6,1001.0,1001,1001.0,785,896,781,541,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+791,University of Concepción,CHILE,3,1001.0,1001,1001.0,687,746,586,1001,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+792,China University of Mining and Technology,CHINA,76,1001.0,890,1001.0,532,797,1001,898,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+793,Chiang Mai University,THAILAND,3,1001.0,1001,1001.0,718,877,793,673,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+794,Yeungnam University,SOUTH KOREA,26,1001.0,467,1001.0,530,693,1001,1001,71.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+795,Marche Polytechnic University,ITALY,41,1001.0,1001,1001.0,775,732,722,898,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+796,National Taiwan University of Science and Technology,TAIWAN,13,1001.0,1001,1001.0,577,616,1001,1001,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+797,Tokushima University,JAPAN,33,143.0,1001,1001.0,736,764,578,1001,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+798,Indian Institute of Technology Kanpur,INDIA,12,268.0,707,1001.0,625,609,1001,1001,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+799,Quaid-i-Azam University,PAKISTAN,1,1001.0,1001,1001.0,643,924,1001,541,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+800,Northeast Normal University,CHINA,77,1001.0,1001,1001.0,663,638,913,1001,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+801,Ryerson University,CANADA,25,1001.0,1001,1001.0,783,752,1001,541,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+802,Babe?-Bolyai University,ROMANIA,1,1001.0,1001,1001.0,645,909,989,673,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+803,Ohio University,USA,186,441.0,353,1001.0,809,680,591,1001,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+804,Wenzhou Medical University,CHINA,78,1001.0,1001,1001.0,650,744,1001,898,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+805,University of Tours,FRANCE,45,424.0,1001,1001.0,797,689,541,1001,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+806,"University of the Andes, Colombia",COLOMBIA,2,1001.0,410,1001.0,1001,897,543,541,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+807,Panjab University,INDIA,13,620.0,566,1001.0,774,811,897,673,71.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+808,University of Alcalá,SPAIN,28,1001.0,1001,1001.0,812,740,650,898,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+809,University of Hertfordshire,UNITED KINGDOM,54,1001.0,1001,1001.0,1001,823,514,541,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+810,Dankook University,SOUTH KOREA,27,1001.0,1001,1001.0,734,900,1001,460,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+811,Chungbuk National University,SOUTH KOREA,28,1001.0,1001,1001.0,633,777,1001,898,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+812,University of Sassari,ITALY,42,1001.0,1001,1001.0,873,802,665,673,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+813,Toho University,JAPAN,34,1001.0,1001,258.0,980,962,1001,673,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+814,Federal University of Ceará,BRAZIL,13,1001.0,1001,1001.0,614,838,981,898,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+815,Portland State University,USA,187,1001.0,335,1001.0,934,817,652,673,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+816,Gunma University,JAPAN,35,1001.0,1001,1001.0,794,769,678,898,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+817,Polytechnic University of Bucharest,ROMANIA,2,1001.0,1001,1001.0,596,993,1001,541,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+818,Yokohama National University,JAPAN,36,120.0,329,246.0,1001,1001,1001,673,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+819,Zhejiang University of Technology,CHINA,79,1001.0,1001,1001.0,630,727,1001,898,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+820,University of the Balearic Islands,SPAIN,29,1001.0,1001,1001.0,841,729,709,898,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+821,Cranfield University,UNITED KINGDOM,55,1001.0,134,1001.0,882,847,1001,673,71.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+822,Polytechnic University of Bari,ITALY,43,1001.0,1001,1001.0,1001,946,556,405,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+823,Budapest University of Technology and Economics,HUNGARY,5,478.0,1001,1001.0,767,843,905,673,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+824,South China Agricultural University,CHINA,80,1001.0,1001,1001.0,723,749,997,898,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+825,University of Orléans,FRANCE,46,1001.0,1001,1001.0,876,765,448,1001,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+826,"National University of Malaysia, UKM",MALAYSIA,4,1001.0,1001,1001.0,527,846,917,1001,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+827,University of Bucharest,ROMANIA,3,461.0,1001,1001.0,674,925,1001,673,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+828,Carlos III University of Madrid,SPAIN,30,1001.0,1001,1001.0,739,661,1001,898,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+829,Uniformed Services University of the Health Sciences,USA,188,1001.0,1001,1001.0,869,690,525,1001,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+830,University of Denver,USA,189,558.0,160,1001.0,1001,900,554,673,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+831,Beijing University of Technology,CHINA,81,1001.0,1001,1001.0,578,666,1001,1001,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+832,University of Insubria,ITALY,44,1001.0,1001,1001.0,902,779,579,898,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+833,Sejong University,SOUTH KOREA,29,1001.0,1001,1001.0,816,791,969,673,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+834,Medical University of Warsaw,POLAND,7,1001.0,1001,1001.0,829,1001,805,673,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+835,East Carolina University,USA,190,1001.0,704,1001.0,842,763,710,898,70.9,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+836,Beijing Jiaotong University,CHINA,82,1001.0,1001,1001.0,553,721,1001,1001,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+837,China Europe International Business School,CHINA,83,1001.0,10,1001.0,1001,1001,1001,1001,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+838,Tokyo Women's Medical University,JAPAN,37,1001.0,1001,1001.0,874,892,646,673,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+839,University of Wuppertal,GERMANY,51,1001.0,1001,1001.0,998,844,906,460,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+840,Federal University of Pernambuco,BRAZIL,14,1001.0,1001,1001.0,549,774,1001,1001,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+841,University of Hyogo,JAPAN,38,1001.0,1001,232.0,1001,1001,553,1001,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+842,University of Regina,CANADA,26,1001.0,1001,1001.0,1001,935,748,405,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+843,Binghamton University,USA,191,1001.0,388,1001.0,964,748,658,898,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+844,Wroc?aw University of Science and Technology,POLAND,8,1001.0,934,1001.0,620,830,1001,898,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+845,University of Toyama,JAPAN,39,1001.0,444,1001.0,776,778,1001,898,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+846,National Taiwan Normal University,TAIWAN,14,1001.0,1001,1001.0,848,765,1001,673,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+847,Federal University of São Carlos,BRAZIL,15,1001.0,1001,1001.0,583,760,1001,1001,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+848,Metropolitan Autonomous University,MEXICO,4,1001.0,1001,1001.0,730,980,869,673,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+849,University of Western Brittany,FRANCE,47,1001.0,1001,1001.0,857,722,585,1001,70.8,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+850,Tokai University,JAPAN,40,1001.0,1001,1001.0,792,851,739,898,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+851,Harbin Engineering University,CHINA,84,1001.0,1001,1001.0,764,809,1001,673,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+852,Gachon University,SOUTH KOREA,30,1001.0,1001,1001.0,749,799,1001,898,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+853,Meijo University,JAPAN,41,1001.0,1001,86.0,1001,1001,1001,898,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+854,Federico Santa María Technical University,CHILE,4,1001.0,1001,1001.0,1001,1001,1001,222,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+855,Michigan Technological University,USA,192,615.0,1001,1001.0,938,839,742,673,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+856,École des hautes études en sciences sociales,FRANCE,48,182.0,1001,121.0,1001,1001,896,1001,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+857,Shiraz University,IRAN,9,1001.0,1001,1001.0,604,894,1001,898,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+858,Indian Institute of Technology Roorkee,INDIA,14,1001.0,362,1001.0,683,861,1001,898,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+859,Nara Institute of Science and Technology,JAPAN,42,1001.0,1001,1001.0,1001,895,400,898,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+860,New Jersey Institute of Technology,USA,193,465.0,736,1001.0,1001,882,720,541,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+861,University of Picardie Jules Verne,FRANCE,49,1001.0,1001,1001.0,1001,902,760,460,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+862,Creighton University,USA,194,1001.0,1001,1001.0,1001,922,616,460,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+863,Åbo Akademi University,FINLAND,9,1001.0,1001,1001.0,970,833,762,673,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+864,Miguel Hernández University of Elche,SPAIN,31,1001.0,1001,1001.0,900,794,740,898,70.7,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+865,Jichi Medical University,JAPAN,43,1001.0,1001,1001.0,988,1001,631,541,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+866,University of Siegen,GERMANY,52,1001.0,1001,1001.0,1001,927,934,405,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+867,University of Extremadura,SPAIN,32,1001.0,1001,1001.0,826,856,1001,673,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+868,Nagoya City University,JAPAN,44,1001.0,592,1001.0,989,906,675,673,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+869,University of Valladolid,SPAIN,33,1001.0,1001,1001.0,725,728,1001,1001,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+870,Murdoch University,AUSTRALIA,25,1001.0,879,1001.0,856,814,565,1001,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+871,Wesleyan University,USA,195,87.0,49,1001.0,1001,1001,671,898,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+872,Ferdowsi University of Mashhad,IRAN,10,1001.0,1001,1001.0,627,965,1001,898,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+873,North China Electric Power University,CHINA,85,1001.0,488,1001.0,756,808,1001,898,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+874,Erciyes University,TURKEY,10,1001.0,1001,1001.0,703,1001,1001,541,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+875,Chung Shan Medical University,TAIWAN,15,1001.0,1001,1001.0,827,781,1001,898,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+876,Hefei University of Technology,CHINA,86,1001.0,692,1001.0,704,702,1001,1001,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+877,China Pharmaceutical University,CHINA,87,1001.0,1001,1001.0,688,737,1001,1001,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+878,Dongguk University,SOUTH KOREA,31,1001.0,556,1001.0,685,775,1001,1001,70.6,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+879,"University of California, Merced",USA,196,1001.0,1001,1001.0,1001,868,505,673,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+880,Shanxi University,CHINA,88,1001.0,1001,1001.0,833,770,1001,898,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+881,Sofia University,BULGARIA,1,493.0,1001,1001.0,824,964,962,673,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+882,Kagoshima University,JAPAN,45,1001.0,648,1001.0,757,824,791,1001,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+883,Jawaharlal Nehru University,INDIA,15,1001.0,1001,181.0,1001,1001,1001,1001,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+884,Mansoura University,EGYPT,3,1001.0,1001,1001.0,731,942,971,898,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+885,Northern Arizona University,USA,197,1001.0,1001,1001.0,1001,978,517,541,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+886,Federal University of Pelotas,BRAZIL,16,1001.0,1001,1001.0,843,1001,820,673,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+887,Shizuoka University,JAPAN,46,1001.0,1001,232.0,998,1001,956,1001,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+888,Inje University,SOUTH KOREA,32,1001.0,1001,1001.0,658,851,1001,1001,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+889,Fluminense Federal University,BRAZIL,17,1001.0,857,1001.0,653,818,1001,1001,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+890,Chongqing Medical University,CHINA,89,1001.0,1001,1001.0,672,826,1001,1001,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+891,"City, University of London",UNITED KINGDOM,56,1001.0,309,1001.0,912,784,1001,898,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+892,Federal University of Goiás,BRAZIL,18,1001.0,1001,1001.0,782,997,1001,673,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+893,Royal Veterinary College,UNITED KINGDOM,57,314.0,1001,1001.0,1001,910,587,673,70.5,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+894,Beijing University of Posts and Telecommunications,CHINA,90,1001.0,502,1001.0,623,842,1001,1001,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+895,Yangzhou University,CHINA,91,1001.0,1001,1001.0,697,789,1001,1001,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+896,Gifu University,JAPAN,47,1001.0,862,1001.0,717,812,1001,1001,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+897,University of Veterinary Medicine Vienna,AUSTRIA,10,1001.0,1001,1001.0,986,863,643,898,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+898,Yamagata University,JAPAN,48,1001.0,1001,1001.0,850,887,863,898,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+899,University of Silesia in Katowice,POLAND,9,1001.0,1001,1001.0,806,955,1001,673,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+900,University of Jaén,SPAIN,34,1001.0,1001,1001.0,1000,969,1001,460,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+901,Yamaguchi University,JAPAN,49,1001.0,1001,1001.0,834,877,993,898,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+902,Shaanxi Normal University,CHINA,92,1001.0,1001,1001.0,712,751,1001,1001,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+903,Alexandria University,EGYPT,4,500.0,1001,1001.0,768,923,1001,898,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+904,University of Mons,BELGIUM,8,1001.0,1001,1001.0,1001,876,773,673,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+905,University of Cyprus,CYPRUS,1,1001.0,1001,1001.0,979,845,1001,673,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+906,Gabriele dAnnunzio University,ITALY,45,1001.0,1001,1001.0,802,770,942,1001,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+907,Hitotsubashi University,JAPAN,50,1001.0,16,1001.0,1001,1001,1001,1001,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+908,Tunis El Manar University,TUNISIA,1,1001.0,1001,1001.0,641,946,1001,1001,70.4,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+909,Southwest Jiaotong University,CHINA,93,1001.0,801,1001.0,680,805,1001,1001,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+910,Ulster University,UNITED KINGDOM,58,1001.0,1001,1001.0,893,807,1001,898,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+911,Renmin University of China,CHINA,94,1001.0,133,1001.0,915,869,1001,1001,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+912,Florida Institute of Technology,USA,198,1001.0,545,1001.0,1001,1001,925,327,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+913,Kyoto Prefectural University of Medicine,JAPAN,51,1001.0,1001,1001.0,1001,961,887,541,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+914,Anhui Medical University,CHINA,95,1001.0,1001,1001.0,814,905,1001,898,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+915,"University of Technology, Malaysia",MALAYSIA,5,1001.0,1001,1001.0,608,879,1001,1001,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+916,Hallym University,SOUTH KOREA,33,1001.0,1001,1001.0,709,834,1001,1001,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+917,COMSATS Institute of Information Technology,PAKISTAN,2,1001.0,1001,1001.0,714,945,1001,898,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+918,Toulouse 1 Capitole University,FRANCE,50,1001.0,1001,164.0,1001,1001,1001,898,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+919,Indian Institute of Management Ahmedabad,INDIA,16,1001.0,14,1001.0,1001,1001,1001,1001,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+920,Aberystwyth University,UNITED KINGDOM,59,1001.0,888,1001.0,1001,907,732,673,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+921,University of Jinan,CHINA,96,1001.0,1001,1001.0,728,787,1001,1001,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+922,North Dakota State University,USA,199,326.0,1001,1001.0,909,834,1001,898,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+923,University Paris 1 Panthéon-Sorbonne,FRANCE,51,473.0,518,125.0,1001,1001,1001,1001,70.3,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+924,Rouen Normandy University,FRANCE,52,661.0,1001,1001.0,896,747,838,1001,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+925,University of Cádiz,SPAIN,35,1001.0,1001,1001.0,944,888,1001,673,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+926,Ritsumeikan University,JAPAN,52,1001.0,594,1001.0,1001,976,1001,541,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+927,Federal University of Santa Maria,BRAZIL,19,1001.0,773,1001.0,578,937,1001,1001,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+928,University of New Brunswick,CANADA,27,1001.0,741,1001.0,890,848,1001,898,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+929,University of Caen Normandy,FRANCE,53,435.0,1001,1001.0,906,730,916,1001,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+930,University of South Bohemia in ?eské Bud?jovice,CZECH REPUBLIC,5,1001.0,1001,1001.0,971,995,590,898,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+931,Osaka Prefecture University,JAPAN,53,1001.0,580,1001.0,804,804,1001,1001,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+932,Çukurova University,TURKEY,11,1001.0,1001,1001.0,800,1001,955,673,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+933,Paris Nanterre University,FRANCE,54,467.0,632,99.0,1001,1001,1001,1001,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+934,University of Alabama in Huntsville,USA,200,1001.0,1001,1001.0,1001,1001,461,673,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+935,Rochester Institute of Technology,USA,201,1001.0,944,1001.0,1001,975,689,541,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+936,Dublin City University,IRELAND,5,1001.0,914,1001.0,968,875,1001,673,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+937,University of Hasselt,BELGIUM,9,1001.0,534,1001.0,973,806,1001,898,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+938,Dokuz Eylül University,TURKEY,12,1001.0,1001,1001.0,707,1001,1001,898,70.2,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+939,University of Massachusetts Boston,USA,202,1001.0,1001,1001.0,1001,850,672,898,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+940,Jaume I University,SPAIN,36,1001.0,1001,1001.0,922,801,1001,898,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+941,Nanjing University of Information Science and Technology,CHINA,97,1001.0,1001,1001.0,766,883,1001,1001,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+942,Télécom ParisTech,FRANCE,55,298.0,47,1001.0,1001,1001,1001,541,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+943,San Francisco State University,USA,203,516.0,1001,275.0,1001,974,703,898,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+944,Zhejiang Normal University,CHINA,98,1001.0,1001,1001.0,852,857,1001,898,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+945,Guangxi University,CHINA,99,605.0,1001,1001.0,844,860,1001,898,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+946,Jacobs University Bremen,GERMANY,53,1001.0,1001,1001.0,1001,969,817,460,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+947,Howard University,USA,204,327.0,1001,1001.0,1001,1001,744,541,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+948,University of Pécs,HUNGARY,6,1001.0,1001,1001.0,1001,1001,992,541,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+949,University of Limerick,IRELAND,6,1001.0,863,1001.0,927,867,1001,898,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+950,Tottori University,JAPAN,54,1001.0,616,1001.0,932,1001,984,673,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+951,Sciences Po,FRANCE,56,296.0,60,168.0,1001,1001,1001,898,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+952,University of Windsor,CANADA,28,1001.0,167,1001.0,933,849,1001,1001,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+953,Mie University,JAPAN,55,1001.0,1001,1001.0,929,966,1001,673,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+954,Nicolaus Copernicus University in Toru?,POLAND,10,1001.0,1001,1001.0,778,953,796,1001,70.1,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+955,Hohai University,CHINA,100,1001.0,1001,1001.0,679,892,1001,1001,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+956,King Juan Carlos University,SPAIN,37,1001.0,1001,1001.0,914,898,1001,898,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+957,Royal College of Surgeons in Ireland,IRELAND,7,1001.0,1001,1001.0,1001,925,667,673,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+958,University of Osnabrück,GERMANY,54,1001.0,1001,1001.0,1001,931,714,673,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+959,University of Perpignan Via Domita,FRANCE,57,272.0,1001,1001.0,1001,1001,726,541,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+960,Qingdao University,CHINA,101,1001.0,1001,1001.0,722,886,1001,1001,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+961,Sogang University,SOUTH KOREA,34,1001.0,653,1001.0,838,885,978,1001,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+962,University of Memphis,USA,205,1001.0,500,1001.0,918,831,899,1001,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+963,Hunter College,USA,206,395.0,1001,1001.0,1001,884,702,898,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+964,North-West University,SOUTH AFRICA,7,591.0,1001,1001.0,823,1001,681,1001,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+965,Ningbo University,CHINA,102,1001.0,1001,1001.0,765,837,1001,1001,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+966,Shahid Beheshti University of Medical Sciences,IRAN,11,1001.0,1001,1001.0,644,1001,949,1001,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+967,National Taiwan Ocean University,TAIWAN,16,1001.0,893,1001.0,930,911,1001,898,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+968,INSA Toulouse,FRANCE,58,1001.0,659,1001.0,1001,871,777,898,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+969,University of Antioquia,COLOMBIA,3,1001.0,1001,1001.0,936,1001,783,898,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+970,Shantou University,CHINA,103,1001.0,1001,1001.0,1001,1001,814,673,70.0,Good,Outside Top 10,Outside Top 50,Outside Top 100,501+
+971,Chung Yuan Christian University,TAIWAN,17,460.0,526,1001.0,924,891,1001,898,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+972,Guangzhou Medical University,CHINA,104,1001.0,1001,1001.0,864,913,880,1001,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+973,Amherst College,USA,207,21.0,66,1001.0,1001,1001,983,1001,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+974,Yunnan University,CHINA,105,1001.0,1001,1001.0,867,951,759,1001,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+975,Johannes Kepler University Linz,AUSTRIA,11,1001.0,1001,1001.0,947,853,825,1001,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+976,New York Medical College,USA,208,1001.0,1001,1001.0,1001,913,719,898,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+977,Missouri University of Science and Technology,USA,209,1001.0,392,1001.0,916,827,1001,1001,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+978,University of Maribor,SLOVENIA,2,1001.0,1001,1001.0,871,1001,1001,898,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+979,Atatürk University,TURKEY,13,1001.0,1001,1001.0,674,1001,1001,898,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+980,Eastern Virginia Medical School,USA,210,1001.0,1001,1001.0,1001,1001,792,327,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+981,University of North Carolina at Greensboro,USA,211,1001.0,1001,1001.0,1001,938,1001,673,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+982,Beijing Forestry University,CHINA,106,1001.0,1001,1001.0,837,840,1001,1001,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+983,Liverpool School of Tropical Medicine,UNITED KINGDOM,60,1001.0,1001,1001.0,1001,920,508,898,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+984,University of Brighton,UNITED KINGDOM,61,1001.0,1001,1001.0,1001,873,727,1001,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+985,Federal University of Bahia,BRAZIL,20,602.0,1001,1001.0,793,981,985,1001,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+986,University of St. Gallen,SWITZERLAND,9,1001.0,32,1001.0,1001,1001,1001,898,69.9,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+987,Xiangtan University,CHINA,107,1001.0,915,1001.0,861,818,1001,1001,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+988,Manchester Metropolitan University,UNITED KINGDOM,62,1001.0,960,1001.0,1001,1001,856,673,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+989,University of A Coruña,SPAIN,38,1001.0,1001,1001.0,847,832,1001,1001,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+990,Khon Kaen University,THAILAND,4,1001.0,1001,1001.0,879,1001,1001,898,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+991,University of Ibadan,NIGERIA,1,540.0,1001,265.0,1001,1001,774,898,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+992,Shahid Beheshti University,IRAN,12,1001.0,1001,1001.0,815,1001,1001,673,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+993,University of Massachusetts Lowell,USA,212,1001.0,930,1001.0,1001,989,1001,541,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+994,Loma Linda University,USA,213,180.0,1001,1001.0,1001,949,890,898,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+995,University of Macau,MACAU,1,1001.0,512,1001.0,883,816,1001,1001,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+996,Aga Khan University,PAKISTAN,3,1001.0,1001,1001.0,1001,1001,464,673,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+997,University of Calcutta,INDIA,17,353.0,716,296.0,798,966,1001,1001,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+998,K?chi University,JAPAN,56,1001.0,1001,1001.0,1001,1001,811,673,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+999,Soonchunhyang University,SOUTH KOREA,35,1001.0,1001,1001.0,881,1001,1001,898,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
+1000,Capital Normal University,CHINA,108,1001.0,869,1001.0,923,904,889,1001,69.8,Average,Outside Top 10,Outside Top 50,Outside Top 100,501+
